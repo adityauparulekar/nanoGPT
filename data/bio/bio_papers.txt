@@ -1,0 +1,2427 @@
+  Spatiotemporal pattern formation in a product-activated enzymic reaction at
+high enzyme concentrations is investigated. Stochastic simulations show that
+catalytic turnover cycles of individual enzymes can become coherent and that
+complex wave patterns of molecular synchronization can develop. The analysis
+based on the mean-field approximation indicates that the observed patterns
+result from the presence of Hopf and wave bifurcations in the considered
+system.
+  This is a supplement to the paper arXiv:q-bio/0701050, containing the text of
+correspondence sent to Nature in 1990.
+  The multisite phosphorylation-dephosphorylation cycle is a motif repeatedly
+used in cell signaling. This motif itself can generate a variety of dynamic
+behaviors like bistability and ultrasensitivity without direct positive
+feedbacks. In this paper, we study the number of positive steady states of a
+general multisite phosphorylation-dephosphorylation cycle, and how the number
+of positive steady states varies by changing the biological parameters. We show
+analytically that (1) for some parameter ranges, there are at least n+1 (if n
+is even) or n (if n is odd) steady states; (2) there never are more than 2n-1
+steady states (in particular, this implies that for n=2, including single
+levels of MAPK cascades, there are at most three steady states); (3) for
+parameters near the standard Michaelis-Menten quasi-steady state conditions,
+there are at most n+1 steady states; and (4) for parameters far from the
+standard Michaelis-Menten quasi-steady state conditions, there is at most one
+steady state.
+  By means of the diffusion entropy approach, we detect the scale-invariance
+characteristics embedded in the 4737 human promoter sequences. The exponent for
+the scale-invariance is in a wide range of $[ {0.3,0.9} ]$, which centered at
+$\delta_c = 0.66$. The distribution of the exponent can be separated into left
+and right branches with respect to the maximum. The left and right branches are
+asymmetric and can be fitted exactly with Gaussian form with different widths,
+respectively.
+  A number of recently discovered protein structures incorporate a rather
+unexpected structural feature: a knot in the polypeptide backbone. These knots
+are extremely rare, but their occurrence is likely connected to protein
+function in as yet unexplored fashion. Our analysis of the complete Protein
+Data Bank reveals several new knots which, along with previously discovered
+ones, can shed light on such connections. In particular, we identify the most
+complex knot discovered to date in human ubiquitin hydrolase, and suggest that
+its entangled topology protects it against unfolding and degradation by the
+proteasome. Knots in proteins are typically preserved across species and
+sometimes even across kingdoms. However, we also identify a knot which only
+appears in some transcarbamylases while being absent in homologous proteins of
+similar structure. The emergence of the knot is accompanied by a shift in the
+enzymatic function of the protein. We suggest that the simple insertion of a
+short DNA fragment into the gene may suffice to turn an unknotted into a
+knotted structure in this protein.
+  We present some numerical results obtained from a simple individual based
+model that describes clustering of organisms caused by competition. Our aim is
+to show how, even when a deterministic description developed for continuum
+models predicts no pattern formation, an individual based model displays well
+defined patterns, as a consequence of fluctuations effects caused by the
+discrete nature of the interacting agents.
+  This paper discusses the benefits of describing the world as information,
+especially in the study of the evolution of life and cognition. Traditional
+studies encounter problems because it is difficult to describe life and
+cognition in terms of matter and energy, since their laws are valid only at the
+physical scale. However, if matter and energy, as well as life and cognition,
+are described in terms of information, evolution can be described consistently
+as information becoming more complex.
+  The paper presents eight tentative laws of information, valid at multiple
+scales, which are generalizations of Darwinian, cybernetic, thermodynamic,
+psychological, philosophical, and complexity principles. These are further used
+to discuss the notions of life, cognition and their evolution.
+  Alexander B. Medvinsky \emph{et al} [A. B. Medvinsky, I. A. Tikhonova, R. R.
+Aliev, B.-L. Li, Z.-S. Lin, and H. Malchow, Phys. Rev. E \textbf{64}, 021915
+(2001)] and Marcus R. Garvie \emph{et al} [M. R. Garvie and C. Trenchea, SIAM
+J. Control. Optim. \textbf{46}, 775-791 (2007)] shown that the minimal
+spatially extended reaction-diffusion model of phytoplankton-zooplankton can
+exhibit both regular, chaotic behavior, and spatiotemporal patterns in a patchy
+environment. Based on that, the spatial plankton model is furtherly
+investigated by means of computer simulations and theoretical analysis in the
+present paper when its parameters would be expected in the case of mixed
+Turing-Hopf bifurcation region. Our results show that the spiral waves exist in
+that region and the spatiotemporal chaos emerge, which arise from the far-field
+breakup of the spiral waves over large ranges of diffusion coefficients of
+phytoplankton and zooplankton. Moreover, the spatiotemporal chaos arising from
+the far-field breakup of spiral waves does not gradually involve the whole
+space within that region. Our results are confirmed by means of computation
+spectra and nonlinear bifurcation of wave trains. Finally, we give some
+explanations about the spatially structured patterns from the community level.
+  This letter reports complete sets of two-fold symmetries between partitions
+of the universal genetic code. By substituting bases at each position of the
+codons according to a fixed rule, it happens that properties of the degeneracy
+pattern or of tRNA aminoacylation specificity are exchanged.
+  Population structure induced by both spatial embedding and more general
+networks of interaction, such as model social networks, have been shown to have
+a fundamental effect on the dynamics and outcome of evolutionary games. These
+effects have, however, proved to be sensitive to the details of the underlying
+topology and dynamics. Here we introduce a minimal population structure that is
+described by two distinct hierarchical levels of interaction. We believe this
+model is able to identify effects of spatial structure that do not depend on
+the details of the topology. We derive the dynamics governing the evolution of
+a system starting from fundamental individual level stochastic processes
+through two successive meanfield approximations. In our model of population
+structure the topology of interactions is described by only two parameters: the
+effective population size at the local scale and the relative strength of local
+dynamics to global mixing. We demonstrate, for example, the existence of a
+continuous transition leading to the dominance of cooperation in populations
+with hierarchical levels of unstructured mixing as the benefit to cost ratio
+becomes smaller then the local population size. Applying our model of spatial
+structure to the repeated prisoner's dilemma we uncover a novel and
+counterintuitive mechanism by which the constant influx of defectors sustains
+cooperation. Further exploring the phase space of the repeated prisoner's
+dilemma and also of the "rock-paper-scissor" game we find indications of rich
+structure and are able to reproduce several effects observed in other models
+with explicit spatial embedding, such as the maintenance of biodiversity and
+the emergence of global oscillations.
+  Structure entails function and thus a structural description of the brain
+will help to understand its function and may provide insights into many
+properties of brain systems, from their robustness and recovery from damage, to
+their dynamics and even their evolution. Advances in the analysis of complex
+networks provide useful new approaches to understanding structural and
+functional properties of brain networks. Structural properties of networks
+recently described allow their characterization as small-world, random
+(exponential) and scale-free. They complement the set of other properties that
+have been explored in the context of brain connectivity, such as topology,
+hodology, clustering, and hierarchical organization. Here we apply new network
+analysis methods to cortical inter-areal connectivity networks for the cat and
+macaque brains. We compare these corticocortical fibre networks to benchmark
+rewired, small-world, scale-free and random networks, using two analysis
+strategies, in which we measure the effects of the removal of nodes and
+connections on the structural properties of the cortical networks. The brain
+networks' structural decay is in most respects similar to that of scale-free
+networks. The results implicate highly connected hub-nodes and bottleneck
+connections as structural basis for some of the conditional robustness of brain
+systems. This informs the understanding of the development of brain networks'
+connectivity.
+  Is it possible to understand cancer? Or more specifically, is it possible to
+understand cancer from genetic side? There already many answers in literature.
+The most optimistic one has claimed that it is mission-possible. Duesberg and
+his colleagues reviewed the impressive amount of research results on cancer
+accumulated over 100 years. It confirms the a general opinion that considering
+all available experimental results and clinical observations there is no cancer
+theory without major difficulties, including the prevailing gene-based cancer
+theories. They have then listed 9 "absolute discrepancies" for such cancer
+theory. In this letter the quantitative evidence against one of their major
+reasons for dismissing mutation cancer theory, by both in vivo experiment and a
+first principle computation, is explicitly pointed out.
+  Annealed importance sampling is a means to assign equilibrium weights to a
+nonequilibrium sample that was generated by a simulated annealing protocol. The
+weights may then be used to calculate equilibrium averages, and also serve as
+an ``adiabatic signature'' of the chosen cooling schedule. In this paper we
+demonstrate the method on the 50-atom dileucine peptide, showing that
+equilibrium distributions are attained for manageable cooling schedules. For
+this system, as naively implemented here, the method is modestly more efficient
+than constant temperature simulation. However, the method is worth considering
+whenever any simulated heating or cooling is performed (as is often done at the
+beginning of a simulation project, or during an NMR structure calculation), as
+it is simple to implement and requires minimal additional CPU expense.
+Furthermore, the naive implementation presented here can be improved.
+  Despite their claimed biological plausibility, most self organizing networks
+have strict topological constraints and consequently they cannot take into
+account a wide range of external stimuli. Furthermore their evolution is
+conditioned by deterministic laws which often are not correlated with the
+structural parameters and the global status of the network, as it should happen
+in a real biological system. In nature the environmental inputs are noise
+affected and fuzzy. Which thing sets the problem to investigate the possibility
+of emergent behaviour in a not strictly constrained net and subjected to
+different inputs. It is here presented a new model of Evolutionary Neural Gas
+(ENG) with any topological constraints, trained by probabilistic laws depending
+on the local distortion errors and the network dimension. The network is
+considered as a population of nodes that coexist in an ecosystem sharing local
+and global resources. Those particular features allow the network to quickly
+adapt to the environment, according to its dimensions. The ENG model analysis
+shows that the net evolves as a scale-free graph, and justifies in a deeply
+physical sense- the term gas here used.
+  The parsimony score of a character on a tree equals the number of state
+changes required to fit that character onto the tree. We show that for
+unordered, reversible characters this score equals the number of tree
+rearrangements required to fit the tree onto the character. We discuss
+implications of this connection for the debate over the use of consensus trees
+or total evidence, and show how it provides a link between incongruence of
+characters and recombination.
+  A coarse-grained computational procedure based on the Finite Element Method
+is proposed to calculate the normal modes and mechanical response of proteins
+and their supramolecular assemblies. Motivated by the elastic network model,
+proteins are modeled as homogeneous isotropic elastic solids with volume
+defined by their solvent-excluded surface. The discretized Finite Element
+representation is obtained using a surface simplification algorithm that
+facilitates the generation of models of arbitrary prescribed spatial
+resolution. The procedure is applied to compute the normal modes of a mutant of
+T4 phage lysozyme and of filamentous actin, as well as the critical Euler
+buckling load of the latter when subject to axial compression. Results compare
+favorably with all-atom normal mode analysis, the Rotation Translation Blocks
+procedure, and experiment. The proposed methodology establishes a computational
+framework for the calculation of protein mechanical response that facilitates
+the incorporation of specific atomic-level interactions into the model,
+including aqueous-electrolyte-mediated electrostatic effects. The procedure is
+equally applicable to proteins with known atomic coordinates as it is to
+electron density maps of proteins, protein complexes, and supramolecular
+assemblies of unknown atomic structure.
+  In this paper a theoretical model of functioning of a neural circuit during a
+behavioral response has been proposed. A neural circuit can be thought of as a
+directed multigraph whose each vertex is a neuron and each edge is a synapse.
+It has been assumed in this paper that the behavior of such circuits is
+manifested through the collective behavior of neurons belonging to that
+circuit. Behavioral information of each neuron is contained in the coefficients
+of the fast Fourier transform (FFT) over the output spike train. Those
+coefficients form a vector in a multidimensional vector space. Behavioral
+dynamics of a neuronal network in response to strong aversive stimuli has been
+studied in a vector space in which a suitable pseudometric has been defined.
+The neurodynamical model of network behavior has been formulated in terms of
+existing memory, synaptic plasticity and feelings. The model has an analogy in
+classical electrostatics, by which the notion of force and potential energy has
+been introduced. Since the model takes input from each neuron in a network and
+produces a behavior as the output, it would be extremely difficult or may even
+be impossible to implement. But with the help of the model a possible
+explanation for an hitherto unexplained neurological observation in human brain
+has been offered. The model is compatible with a recent model of sequential
+behavioral dynamics. The model is based on electrophysiology, but its relevance
+to hemodynamics has been outlined.
+  Suprathreshold stochastic resonance (SSR) is a form of noise enhanced signal
+transmission that occurs in a parallel array of independently noisy identical
+threshold nonlinearities, including model neurons. Unlike most forms of
+stochastic resonance, the output response to suprathreshold random input
+signals of arbitrary magnitude is improved by the presence of even small
+amounts of noise. In this paper the information transmission performance of SSR
+in the limit of a large array size is considered. Using a relationship between
+Shannon's mutual information and Fisher information, a sufficient condition for
+optimality, i.e. channel capacity, is derived. It is shown that capacity is
+achieved when the signal distribution is Jeffrey's prior, as formed from the
+noise distribution, or when the noise distribution depends on the signal
+distribution via a cosine relationship. These results provide theoretical
+verification and justification for previous work in both computational
+neuroscience and electronics.
+  The holographic bound in physics constrains the complexity of life. The
+finite storage capability of information in the observable universe requires
+the protein linguistics in the evolution of life. We find that the evolution of
+genetic code determines the variance of amino acid frequencies and genomic GC
+content among species. The elegant linguistic mechanism is confirmed by the
+experimental observations based on all known entire proteomes.
+  A fast and accurate computational scheme for simulating nonlinear dynamic
+systems is presented. The scheme assumes that the system can be represented by
+a combination of components of only two different types: first-order low-pass
+filters and static nonlinearities. The parameters of these filters and
+nonlinearities may depend on system variables, and the topology of the system
+may be complex, including feedback. Several examples taken from neuroscience
+are given: phototransduction, photopigment bleaching, and spike generation
+according to the Hodgkin-Huxley equations. The scheme uses two slightly
+different forms of autoregressive filters, with an implicit delay of zero for
+feedforward control and an implicit delay of half a sample distance for
+feedback control. On a fairly complex model of the macaque retinal horizontal
+cell it computes, for a given level of accuracy, 1-2 orders of magnitude faster
+than 4th-order Runge-Kutta. The computational scheme has minimal memory
+requirements, and is also suited for computation on a stream processor, such as
+a GPU (Graphical Processing Unit).
+  We present a simple and generic theoretical description of actin-based
+motility, where polymerization of filaments maintains propulsion. The dynamics
+is driven by polymerization kinetics at the filaments' free ends, crosslinking
+of the actin network, attachment and detachment of filaments to the obstacle
+interfaces and entropic forces. We show that spontaneous oscillations in the
+velocity emerge in a broad range of parameter values, and compare our findings
+with experiments.
+  Conformational transitions in macromolecular complexes often involve the
+reorientation of lever-like structures. Using a simple theoretical model, we
+show that the rate of such transitions is drastically enhanced if the lever is
+bendable, e.g. at a localized "hinge''. Surprisingly, the transition is fastest
+with an intermediate flexibility of the hinge. In this intermediate regime, the
+transition rate is also least sensitive to the amount of "cargo'' attached to
+the lever arm, which could be exploited by molecular motors. To explain this
+effect, we generalize the Kramers-Langer theory for multi-dimensional barrier
+crossing to configuration dependent mobility matrices.
+  We propose a combined experimental (Atomic Force Microscopy) and theoretical
+study of the structural and dynamical properties of nucleosomes. In contrast to
+biochemical approaches, this method allows to determine simultaneously the DNA
+complexed length distribution and nucleosome position in various contexts.
+First, we show that differences in the nucleo-proteic structure observed
+between conventional H2A and H2A.Bbd variant nucleosomes induce quantitative
+changes in the in the length distribution of DNA complexed with histones. Then,
+the sliding action of remodeling complex SWI/SNF is characterized through the
+evolution of the nucleosome position and wrapped DNA length mapping. Using a
+linear energetic model for the distribution of DNA complexed length, we extract
+the net wrapping energy of DNA onto the histone octamer, and compare it to
+previous studies.
+  The class of 2-interval graphs has been introduced for modelling scheduling
+and allocation problems, and more recently for specific bioinformatic problems.
+Some of those applications imply restrictions on the 2-interval graphs, and
+justify the introduction of a hierarchy of subclasses of 2-interval graphs that
+generalize line graphs: balanced 2-interval graphs, unit 2-interval graphs, and
+(x,x)-interval graphs. We provide instances that show that all the inclusions
+are strict. We extend the NP-completeness proof of recognizing 2-interval
+graphs to the recognition of balanced 2-interval graphs. Finally we give hints
+on the complexity of unit 2-interval graphs recognition, by studying
+relationships with other graph classes: proper circular-arc, quasi-line graphs,
+K_{1,5}-free graphs, ...
+  Fluctuations in the abundance of molecules in the living cell may affect its
+growth and well being. For regulatory molecules (e.g., signaling proteins or
+transcription factors), fluctuations in their expression can affect the levels
+of downstream targets in a network. Here, we develop an analytic framework to
+investigate the phenomenon of noise correlation in molecular networks.
+Specifically, we focus on the metabolic network, which is highly inter-linked,
+and noise properties may constrain its structure and function. Motivated by the
+analogy between the dynamics of a linear metabolic pathway and that of the
+exactly soluable linear queueing network or, alternatively, a mass transfer
+system, we derive a plethora of results concerning fluctuations in the
+abundance of intermediate metabolites in various common motifs of the metabolic
+network. For all but one case examined, we find the steady-state fluctuation in
+different nodes of the pathways to be effectively uncorrelated. Consequently,
+fluctuations in enzyme levels only affect local properties and do not propagate
+elsewhere into metabolic networks, and intermediate metabolites can be freely
+shared by different reactions. Our approach may be applicable to study
+metabolic networks with more complex topologies, or protein signaling networks
+which are governed by similar biochemical reactions. Possible implications for
+bioinformatic analysis of metabolimic data are discussed.
+  Many important real-world networks manifest "small-world" properties such as
+scale-free degree distributions, small diameters, and clustering. The most
+common model of growth for these networks is "preferential attachment", where
+nodes acquire new links with probability proportional to the number of links
+they already have. We show that preferential attachment is a special case of
+the process of molecular evolution. We present a new single-parameter model of
+network growth that unifies varieties of preferential attachment with the
+quasispecies equation (which models molecular evolution), and also with the
+Erdos-Renyi random graph model. We suggest some properties of evolutionary
+models that might be applied to the study of networks. We also derive the form
+of the degree distribution resulting from our algorithm, and we show through
+simulations that the process also models aspects of network growth. The
+unification allows mathematical machinery developed for evolutionary dynamics
+to be applied in the study of network dynamics, and vice versa.
+  BACKGROUND: An important question is whether evolution favors properties such
+as mutational robustness or evolvability that do not directly benefit any
+individual, but can influence the course of future evolution. Functionally
+similar proteins can differ substantially in their robustness to mutations and
+capacity to evolve new functions, but it has remained unclear whether any of
+these differences might be due to evolutionary selection for these properties.
+  RESULTS: Here we use laboratory experiments to demonstrate that evolution
+favors protein mutational robustness if the evolving population is sufficiently
+large. We neutrally evolve cytochrome P450 proteins under identical selection
+pressures and mutation rates in populations of different sizes, and show that
+proteins from the larger and thus more polymorphic population tend towards
+higher mutational robustness. Proteins from the larger population also evolve
+greater stability, a biophysical property that is known to enhance both
+mutational robustness and evolvability. The excess mutational robustness and
+stability is well described by existing mathematical theories, and can be
+quantitatively related to the way that the proteins occupy their neutral
+network.
+  CONCLUSIONS: Our work is the first experimental demonstration of the general
+tendency of evolution to favor mutational robustness and protein stability in
+highly polymorphic populations. We suggest that this phenomenon may contribute
+to the mutational robustness and evolvability of viruses and bacteria that
+exist in large populations.
+  A practical introduction to stochastic modelling of reaction-diffusion
+processes is presented. No prior knowledge of stochastic simulations is
+assumed. The methods are explained using illustrative examples. The article
+starts with the classical Gillespie algorithm for the stochastic modelling of
+chemical reactions. Then stochastic algorithms for modelling molecular
+diffusion are given. Finally, basic stochastic reaction-diffusion methods are
+presented. The connections between stochastic simulations and deterministic
+models are explained and basic mathematical tools (e.g. chemical master
+equation) are presented. The article concludes with an overview of more
+advanced methods and problems.
+  Data on the prevalence of bone cancer in dinosaurs is available from past
+radiological examination of preserved bones. We statistically test this data
+for consistency with rates extrapolated from information on bone cancer in
+modern vertebrates, and find that there is no evidence of a different rate.
+Thus, this test provides no support for a possible role of ionizing radiation
+in the K-T extinction event.
+  Objectives: In this study, we quantify the growth variability of tumour cell
+clones from a human leukemia cell line. Materials and methods: We have used
+microplate spectrophotometry to measure the growth kinetics of hundreds of
+individual cell clones from the Molt3 cell line. The growth rate of each clonal
+population has been estimated by fitting experimental data with the logistic
+equation. Results: The growth rates were observed to vary among different
+clones. Up to six clones with a growth rate above or below the mean growth rate
+of the parent population were further cloned and the growth rates of their
+offsprings were measured. The distribution of the growth rates of the subclones
+did not significantly differ from that of the parent population thus suggesting
+that growth variability has an epigenetic origin. To explain the observed
+distributions of clonal growth rates we have developed a probabilistic model
+assuming that the fluctuations in the number of mitochondria through successive
+cell cycles are the leading cause of growth variability. For fitting purposes,
+we have estimated experimentally by flow cytometry the maximum average number
+of mitochondria in Molt3 cells. The model fits nicely the observed
+distributions of growth rates, however, cells in which the mitochondria were
+rendered non functional (rho-0 cells) showed only a 30% reduction in the clonal
+growth variability with respect to normal cells. Conclusions: A tumor cell
+population is a dynamic ensemble of clones with highly variable growth rate. At
+least part of this variability is due to fluctuations in the number of
+mitochondria.
+  Chargaff's second parity rule holds empirically for most types of DNA that
+along single strands of DNA the base contents are equal for complimentary
+bases, A = T, G = C. A Markov chain model is constructed to track the evolution
+of any single base position along single strands of genomes whose organisms are
+equipped with replication mismatch repair. Under the key assumptions that
+mismatch error rates primarily depend the number of hydrogen bonds of
+nucleotides and that the mismatch repairing process itself makes strand
+recognition error, the model shows that the steady state probabilities for any
+base position to take on one of the 4 nucleotide bases are equal for
+complimentary bases. As a result, Chargaff's second parity rule is the
+manifestation of the Law of Large Number acting on the steady state
+probabilities. More importantly, because the model pinpoints mismatch repair as
+a basis of the rule, it is suitable for experimental verification.
+  A Boolean network model of the cell-cycle regulatory network of fission yeast
+(Schizosaccharomyces Pombe) is constructed solely on the basis of the known
+biochemical interaction topology. Simulating the model in the computer,
+faithfully reproduces the known sequence of regulatory activity patterns along
+the cell cycle of the living cell. Contrary to existing differential equation
+models, no parameters enter the model except the structure of the regulatory
+circuitry. The dynamical properties of the model indicate that the biological
+dynamical sequence is robustly implemented in the regulatory network, with the
+biological stationary state G1 corresponding to the dominant attractor in state
+space, and with the biological regulatory sequence being a strongly attractive
+trajectory. Comparing the fission yeast cell-cycle model to a similar model of
+the corresponding network in S. cerevisiae, a remarkable difference in
+circuitry, as well as dynamics is observed. While the latter operates in a
+strongly damped mode, driven by external excitation, the S. pombe network
+represents an auto-excited system with external damping.
+  Phylogenetic mixtures model the inhomogeneous molecular evolution commonly
+observed in data. The performance of phylogenetic reconstruction methods where
+the underlying data is generated by a mixture model has stimulated considerable
+recent debate. Much of the controversy stems from simulations of mixture model
+data on a given tree topology for which reconstruction algorithms output a tree
+of a different topology; these findings were held up to show the shortcomings
+of particular tree reconstruction methods. In so doing, the underlying
+assumption was that mixture model data on one topology can be distinguished
+from data evolved on an unmixed tree of another topology given enough data and
+the ``correct'' method. Here we show that this assumption can be false. For
+biologists our results imply that, for example, the combined data from two
+genes whose phylogenetic trees differ only in terms of branch lengths can
+perfectly fit a tree of a different topology.
+  Protein-DNA complexes with loops play a fundamental role in a wide variety of
+cellular processes, ranging from the regulation of DNA transcription to
+telomere maintenance. As ubiquitous as they are, their precise in vivo
+properties and their integration into the cellular function still remain
+largely unexplored. Here, we present a multilevel approach that efficiently
+connects in both directions molecular properties with cell physiology and use
+it to characterize the molecular properties of the looped DNA-lac repressor
+complex while functioning in vivo. The properties we uncover include the
+presence of two representative conformations of the complex, the stabilization
+of one conformation by DNA architectural proteins, and precise values of the
+underlying twisting elastic constants and bending free energies. Incorporation
+of all this molecular information into gene-regulation models reveals an
+unprecedented versatility of looped DNA-protein complexes at shaping the
+properties of gene expression.
+  Surviving in a diverse environment requires corresponding organism responses.
+At the cellular level, such adjustment relies on the transcription factors
+(TFs) which must rapidly find their target sequences amidst a vast amount of
+non-relevant sequences on DNA molecules. Whether these transcription factors
+locate their target sites through a 1D or 3D pathway is still a matter of
+speculation. It has been suggested that the optimum search time is when the
+protein equally shares its search time between 1D and 3D diffusions. In this
+paper, we study the above problem using a Monte Carlo simulation by considering
+a very simple physical model. A 1D strip, representing a DNA, with a number of
+low affinity sites, corresponding to non-target sites, and high affinity sites,
+corresponding to target sites, is considered and later extended to a 2D strip.
+We study the 1D and 3D exploration pathways, and combinations of the two modes
+by considering three different types of molecules: a walker that randomly walks
+along the strip with no dissociation; a jumper that represents dissociation and
+then re-association of a TF with the strip at later time at a distant site; and
+a hopper that is similar to the jumper but it dissociates and then
+re-associates at a faster rate than the jumper. We analyze the final
+probability distribution of molecules for each case and find that TFs can
+locate their targets fast enough even if they spend 15% of their search time
+diffusing freely in the solution. This indeed agrees with recent experimental
+results obtained by Elf et al. 2007 and is in contrast with theoretical
+expectation.
+  We report 10 successfully folding events of trpzip2 by molecular dynamics
+simulation. It is found that the trizip2 can fold into its native state through
+different zipper pathways, depending on the ways of forming hydrophobic core.
+We also find a very fast non-zipper pathway. This indicates that there may be
+no inconsistencies in the current pictures of beta-hairpin folding mechanisms.
+These pathways occur with different probabilities. zip-out is the most probable
+one. This may explain the recent experiment that the turn formation is the
+rate-limiting step for beta-hairpin folding.
+  Is it possible to link a set of nodes without using preexisting positional
+information or any kind of long-range attraction of the nodes? Can the process
+of generating positional information, i.e. the detection of ``unknown'' nodes
+and the estabishment of chemical gradients, \emph{and} the process of network
+formation, i.e. the establishment of links between nodes, occur in parallel, on
+a comparable time scale, as a process of co-evolution?
+  The paper discusses a model where the generation of relevant information for
+establishing the links between nodes results from the interaction of many
+\emph{agents}, i.e. subunits of the system that are capable of performing some
+activities. Their collective interaction is based on (indirect) communication,
+which also includes memory effects and the dissemination of information in the
+system. The relevant (``pragmatic'') information that leads to the
+establishment of the links then emerges from an evolutionary interplay of
+selection and reamplification.
+  The complementary strands of DNA molecules can be separated when stretched
+apart by a force; the unzipping signal is correlated to the base content of the
+sequence but is affected by thermal and instrumental noise. We consider here
+the ideal case where opening events are known to a very good time resolution
+(very large bandwidth), and study how the sequence can be reconstructed from
+the unzipping data. Our approach relies on the use of statistical Bayesian
+inference and of Viterbi decoding algorithm. Performances are studied
+numerically on Monte Carlo generated data, and analytically. We show how
+multiple unzippings of the same molecule may be exploited to improve the
+quality of the prediction, and calculate analytically the number of required
+unzippings as a function of the bandwidth, the sequence content, the elasticity
+parameters of the unzipped strands.
+  In this paper, we propose a novel inference method for dynamic genetic
+networks which makes it possible to face with a number of time measurements n
+much smaller than the number of genes p. The approach is based on the concept
+of low order conditional dependence graph that we extend here in the case of
+Dynamic Bayesian Networks. Most of our results are based on the theory of
+graphical models associated with the Directed Acyclic Graphs (DAGs). In this
+way, we define a minimal DAG G which describes exactly the full order
+conditional dependencies given the past of the process. Then, to face with the
+large p and small n estimation case, we propose to approximate DAG G by
+considering low order conditional independencies. We introduce partial qth
+order conditional dependence DAGs G(q) and analyze their probabilistic
+properties. In general, DAGs G(q) differ from DAG G but still reflect relevant
+dependence facts for sparse networks such as genetic networks. By using this
+approximation, we set out a non-bayesian inference method and demonstrate the
+effectiveness of this approach on both simulated and real data analysis. The
+inference procedure is implemented in the R package 'G1DBN' freely available
+from the CRAN archive.
+  The puzzle presented by the famous stumps of Gilboa, New York, finds a
+solution in the discovery of two fossil specimens that allow the entire
+structure of these early trees to be reconstructed.
+  If predictions for species extinctions hold, then the `tree of life' today
+may be quite different to that in (say) 100 years. We describe a technique to
+quantify how much each species is likely to contribute to future biodiversity,
+as measured by its expected contribution to phylogenetic diversity. Our
+approach considers all possible scenarios for the set of species that will be
+extant at some future time, and weights them according to their likelihood
+under an independent (but not identical) distribution on species extinctions.
+Although the number of extinction scenarios can typically be very large, we
+show that there is a simple algorithm that will quickly compute this index. The
+method is implemented and applied to the prosimian primates as a test case, and
+the associated species ranking is compared to a related measure (the `Shapley
+index'). We describe indices for rooted and unrooted trees, and a modification
+that also includes the focal taxon's probability of extinction, making it
+directly comparable to some new conservation metrics.
+  For cellular biochemical reaction systems where the numbers of molecules is
+small, significant noise is associated with chemical reaction events. This
+molecular noise can give rise to behavior that is very different from the
+predictions of deterministic rate equation models. Unfortunately, there are few
+analytic methods for examining the qualitative behavior of stochastic systems.
+Here we describe such a method that extends deterministic analysis to include
+leading-order corrections due to the molecular noise. The method allows the
+steady-state behavior of the stochastic model to be easily computed,
+facilitates the mapping of stability phase diagrams that include stochastic
+effects and reveals how model parameters affect noise susceptibility, in a
+manner not accessible to numerical simulation. By way of illustration we
+consider two genetic circuits: a bistable positive-feedback loop and a
+negative-feedback oscillator. We find in the positive feedback circuit that
+translational activation leads to a far more stable system than transcriptional
+control. Conversely, in a negative-feedback loop triggered by a
+positive-feedback switch, the stochasticity of transcriptional control is
+harnessed to generate reproducible oscillations.
+  Medvedev and Melott (2007) have suggested that periodicity in fossil
+biodiversity may be induced by cosmic rays which vary as the Solar System
+oscillates normal to the galactic disk. We re-examine the evidence for a 62
+million year (Myr) periodicity in biodiversity throughout the Phanerozoic
+history of animal life reported by Rohde & Mueller (2005), as well as related
+questions of periodicity in origination and extinction. We find that the signal
+is robust against variations in methods of analysis, and is based on
+fluctuations in the Paleozoic and a substantial part of the Mesozoic.
+Examination of origination and extinction is somewhat ambiguous, with results
+depending upon procedure. Origination and extinction intensity as defined by RM
+may be affected by an artifact at 27 Myr in the duration of stratigraphic
+intervals. Nevertheless, when a procedure free of this artifact is implemented,
+the 27 Myr periodicity appears in origination, suggesting that the artifact may
+ultimately be based on a signal in the data. A 62 Myr feature appears in
+extinction, when this same procedure is used. We conclude that evidence for a
+periodicity at 62 Myr is robust, and evidence for periodicity at approximately
+27 Myr is also present, albeit more ambiguous.
+  Secondary structure elements of many protein families exhibit differential
+conservation on their opposing faces. Amphipathic helices and beta-sheets by
+definition possess this property, and play crucial functional roles. This type
+of evolutionary trajectory of a protein family is usually critical to the
+functions of the protein family, as well as in creating functions within
+subfamilies. That is, differential conservation maintains properties of a
+protein structure related to its orientation, and that are important in
+packing, recognition, and catalysis. Here I define and formulate a new concept,
+called the selection moment, that detects this evolutionary process in protein
+sequences. A treatment of its various applications is detailed.
+  A fundamental problem in neuroscience is understanding how working memory --
+the ability to store information at intermediate timescales, like 10s of
+seconds -- is implemented in realistic neuronal networks. The most likely
+candidate mechanism is the attractor network, and a great deal of effort has
+gone toward investigating it theoretically. Yet, despite almost a quarter
+century of intense work, attractor networks are not fully understood. In
+particular, there are still two unanswered questions. First, how is it that
+attractor networks exhibit irregular firing, as is observed experimentally
+during working memory tasks? And second, how many memories can be stored under
+biologically realistic conditions? Here we answer both questions by studying an
+attractor neural network in which inhibition and excitation balance each other.
+Using mean field analysis, we derive a three-variable description of attractor
+networks. From this description it follows that irregular firing can exist only
+if the number of neurons involved in a memory is large. The same mean field
+analysis also shows that the number of memories that can be stored in a network
+scales with the number of excitatory connections, a result that has been
+suggested for simple models but never shown for realistic ones. Both of these
+predictions are verified using simulations with large networks of spiking
+neurons.
+  Successful predictions are among the most compelling validations of any
+model. Extracting falsifiable predictions from nonlinear multiparameter models
+is complicated by the fact that such models are commonly sloppy, possessing
+sensitivities to different parameter combinations that range over many decades.
+Here we discuss how sloppiness affects the sorts of data that best constrain
+model predictions, makes linear uncertainty approximations dangerous, and
+introduces computational difficulties in Monte-Carlo uncertainty analysis. We
+also present a useful test problem and suggest refinements to the standards by
+which models are communicated.
+  In most vertebrate species, the body axis is generated by the formation of
+repeated transient structures called somites. This spatial periodicity in
+somitogenesis has been related to the temporally sustained oscillations in
+certain mRNAs and their associated gene products in the cells forming the
+presomatic mesoderm. The mechanism underlying these oscillations have been
+identified as due to the delays involved in the synthesis of mRNA and
+translation into protein molecules [J. Lewis, Current Biol. {\bf 13}, 1398
+(2003)]. In addition, in the zebrafish embryo intercellular Notch signalling
+couples these oscillators and a longitudinal positional information signal in
+the form of an Fgf8 gradient exists that could be used to transform these
+coupled temporal oscillations into the observed spatial periodicity of somites.
+Here we consider a simple model based on this known biology and study its
+consequences for somitogenesis. Comparison is made with the known properties of
+somite formation in the zebrafish embryo . We also study the effects of
+localized Fgf8 perturbations on somite patterning.
+  We demonstrate the power of the genetic algorithms to construct the cellular
+automata model simulating the growth of 2-dimensional close-to-circular
+clusters revealing the desired properties, such as the growth rate and, at the
+same time, the fractal behavior of their contours. The possible application of
+the approach in the field of tumor modeling is outlined.
+  An epidemic multi-strain model with temporary cross-immunity shows chaos,
+even in a previously unexpected parameter region. Especially dengue fever
+models with strong enhanced infectivity on secondary infection have previously
+shown deterministic chaos motivated by experimental findings of
+antibody-dependent-enhancement (ADE). Including temporary cross-immunity in
+such models, which is common knowledge among field researchers in dengue, we
+find a deterministically chaotic attractor in the more realistic parameter
+region of reduced infectivity on secondary infection (''inverse ADE'' parameter
+region). This is realistic for dengue fever since on second infection people
+are more likely to be hospitalized, hence do not contribute to the force of
+infection as much as people with first infection.
+  Our finding has wider implications beyond dengue in any multi-strain
+epidemiological systems with altered infectivity upon secondary infection,
+since we can relax the condition of rather high infectivity on secondary
+infection previously required for deterministic chaos. For dengue the finding
+of wide ranges of chaotic attractors open new ways to analysis of existing data
+sets.
+  RNA motifs typically consist of short, modular patterns that include base
+pairs formed within and between modules. Estimating the abundance of these
+patterns is of fundamental importance for assessing the statistical
+significance of matches in genomewide searches, and for predicting whether a
+given function has evolved many times in different species or arose from a
+single common ancestor. In this manuscript, we review in an integrated and
+self-contained manner some basic concepts of automata theory, generating
+functions and transfer matrix methods that are relevant to pattern analysis in
+biological sequences. We formalize, in a general framework, the concept of
+Markov chain embedding to analyze patterns in random strings produced by a
+memoryless source. This conceptualization, together with the capability of
+automata to recognize complicated patterns, allows a systematic analysis of
+problems related to the occurrence and frequency of patterns in random strings.
+The applications we present focus on the concept of synchronization of
+automata, as well as automata used to search for a finite number of keywords
+(including sets of patterns generated according to base pairing rules) in a
+general text.
+  The time-dependent transverse response of stiff polymers, represented as
+weakly-bending wormlike chains (WLCs), is well-understood on the linear level,
+where transverse degrees of freedom evolve independently from the longitudinal
+ones. We show that, beyond a characteristic time scale, the nonlinear coupling
+of transverse and longitudinal motion in an inextensible WLC significantly
+weakens the polymer response compared to the widely used linear response
+predictions. The corresponding feedback mechanism is rationalized by scaling
+arguments and quantified by a multiple scale approach that exploits an inherent
+separation of transverse and longitudinal correlation length scales. Crossover
+scaling laws and exact analytical and numerical solutions for characteristic
+response quantities are derived for different experimentally relevant setups.
+Our findings are applicable to cytoskeletal filaments as well as DNA under
+tension.
+  Linear measures such as cross-correlation have been used successfully to
+determine time delays from the given processes. Such an analysis often precedes
+identifying possible causal relationships between the observed processes. The
+present study investigates the impact of a positively correlated driver whose
+correlation function decreases monotonically with lag on the delay estimation
+in a two-node acyclic network with one and two-delays. It is shown that
+cross-correlation analysis of the given processes can result in spurious
+identification of multiple delays between the driver and the dependent
+processes. Subsequently, delay estimation of increment process as opposed to
+the original process under certain implicit constraints is explored.
+Short-range and long-range correlated driver processes along with those of
+their coarse-grained counterparts are considered.
+  We have built an open-source software system for the modeling of biomolecular
+reaction networks, SloppyCell, which is written in Python and makes substantial
+use of third-party libraries for numerics, visualization, and parallel
+programming. We highlight here some of the powerful features that Python
+provides that enable SloppyCell to do dynamic code synthesis, symbolic
+manipulation, and parallel exploration of complex parameter spaces.
+  In the peripheral nervous system, utrophin and the short dystrophin isoform
+(Dp116) are co-localized at the outermost layer of the myelin sheath of nerve
+fibers; together with the dystroglycan complex. In peripheral nerve, matrix
+metalloproteinase (MMP) creates a 30 kDa fragment of beta-dystroglycan, leading
+to a disruption of the link between the extracellular matrix and the cell
+membrane. Here we asked if the processing of the beta-dystroglycan could
+influence the anchorage of Dp116 or/and utrophin in normal and mdx Schwann cell
+membrane. We showed that MMP-9 was more activated in mdx nerve than in
+wild-type one. This activation leads to an accumulation of the 30 kDa
+beta-dystroglycan isoform and have an impact on the anchorage of Dp116 and
+utrophin isoforms in mdx Schwann cells membrane. Our results showed that Dp116
+had greater affinity to the full length form of beta-dystroglycan than the 30
+kDa form. Moreover, we showed for the first time that the short isoform of
+utrophin (Up71) was over-expressed in mdx Schwann cells compared to wild-type.
+In addition, this utrophin isoform (Up71) seems to have greater affinity to the
+30 kDa beta-dystroglycan which could explain a more stabilization of this 30
+kDa at the membrane compartment. Our results highlight the potential
+participation of the short utrophin isoform and the cleaved form of
+beta-dystroglycan in mdx Schwann cell membrane architecture.
+  Transcription regulation typically involves the binding of proteins over long
+distances on multiple DNA sites that are brought close to each other by the
+formation of DNA loops. The inherent complexity of the assembly of regulatory
+complexes on looped DNA challenges the understanding of even the simplest
+genetic systems, including the prototypical lac operon. Here we implement a
+scalable quantitative computational approach to analyze systems regulated
+through multiple DNA sites with looping. Our approach applied to the lac operon
+accurately predicts the transcription rate over five orders of magnitude for
+wild type and seven mutants accounting for all the combinations of deletions of
+the three operators. A quantitative analysis of the model reveals that the
+presence of three operators provides a mechanism to combine robust repression
+with sensitive induction, two seemingly mutually exclusive properties that are
+required for optimal functioning of metabolic switches.
+  The present paper aims at introducing the innovative technologies, based on
+the concept of "sensory substitution" or "perceptual supplementation", we are
+developing in the fields of human disability and biomedical engineering.
+Precisely, our goal is to design, develop and validate practical assistive
+biomedical and/technical devices and/or rehabilitating procedures for persons
+with disabilities, using artificial tongue-placed tactile biofeedback systems.
+Proposed applications are dealing with: (1) pressure sores prevention in case
+of spinal cord injuries (persons with paraplegia, or tetraplegia); (2) ankle
+proprioceptive acuity improvement for driving assistance in older and/or
+disabled adults; and (3) balance control improvement to prevent fall in older
+and/or disabled adults. This paper presents results of three feasibility
+studies performed on young healthy adults.
+  How can a microorganism adapt to a variety of environmental conditions
+despite there exists a limited number of signal transduction machineries? We
+show that for any growing cells whose gene expression is under stochastic
+fluctuations, adaptive cellular state is inevitably selected by noise, even
+without specific signal transduction network for it. In general, changes in
+protein concentration in a cell are given by its synthesis minus dilution and
+degradation, both of which are proportional to the rate of cell growth. In an
+adaptive state with a higher growth speed, both terms are large and balanced.
+Under the presence of noise in gene expression, the adaptive state is less
+affected by stochasticity since both the synthesis and dilution terms are
+large, while for a non-adaptive state both the terms are smaller so that cells
+are easily kicked out of the original state by noise. Hence, escape time from a
+cellular state and the cellular growth rate are negatively correlated. This
+leads to a selection of adaptive states with higher growth rates, and model
+simulations confirm this selection to take place in general. The results
+suggest a general form of adaptation that has never been brought to light - a
+process that requires no specific machineries for sensory adaptation. The
+present scheme may help explain a wide range of cellular adaptive responses
+including the metabolic flux optimization for maximal cell growth.
+  Pressure ulcers are recognized as a major health issue in individuals with
+spinal cord injuries and new approaches to prevent this pathology are
+necessary. An innovative health strategy is being developed through the use of
+computer and sensory substitution via the tongue in order to compensate for the
+sensory loss in the buttock area for individuals with paraplegia. This sensory
+compensation will enable individuals with spinal cord injuries to be aware of a
+localized excess of pressure at the skin/seat interface and, consequently, will
+enable them to prevent the formation of pressure ulcers by relieving the
+cutaneous area of suffering. This work reports an initial evaluation of this
+approach and the feasibility of creating an adapted behavior, with a change in
+pressure as a response to electro-stimulated information on the tongue.
+Obtained during a clinical study in 10 healthy seated subjects, the first
+results are encouraging, with 92% success in 100 performed tests. These
+results, which have to be completed and validated in the paraplegic population,
+may lead to a new approach to education in health to prevent the formation of
+pressure ulcers within this population. Keywords: Spinal Cord Injuries,
+Pressure Ulcer, Sensory Substitution, Health Education, Biomedical Informatics.
+  Boolean Networks and their dynamics are of great interest as abstract
+modeling schemes in various disciplines, ranging from biology to computer
+science. Whereas parallel update schemes have been studied extensively in past
+years, the level of understanding of asynchronous updates schemes is still very
+poor. In this paper we study the propagation of external information given by
+regulatory input variables into a random Boolean network. We compute both
+analytically and numerically the time evolution and the asymptotic behavior of
+this propagation of external regulation (PER). In particular, this allows us to
+identify variables which are completely determined by this external
+information. All those variables in the network which are not directly fixed by
+PER form a core which contains in particular all non-trivial feedback loops. We
+design a message-passing approach allowing to characterize the statistical
+properties of these cores in dependence of the Boolean network and the external
+condition. At the end we establish a link between PER dynamics and the full
+random asynchronous dynamics of a Boolean network.
+  One of the major problems in computational biology is the inability of
+existing classification models to incorporate expanding and new domain
+knowledge. This problem of static classification models is addressed in this
+paper by the introduction of incremental learning for problems in
+bioinformatics. Many machine learning tools have been applied to this problem
+using static machine learning structures such as neural networks or support
+vector machines that are unable to accommodate new information into their
+existing models. We utilize the fuzzy ARTMAP as an alternate machine learning
+system that has the ability of incrementally learning new data as it becomes
+available. The fuzzy ARTMAP is found to be comparable to many of the widespread
+machine learning systems. The use of an evolutionary strategy in the selection
+and combination of individual classifiers into an ensemble system, coupled with
+the incremental learning ability of the fuzzy ARTMAP is proven to be suitable
+as a pattern classifier. The algorithm presented is tested using data from the
+G-Coupled Protein Receptors Database and shows good accuracy of 83%. The system
+presented is also generally applicable, and can be used in problems in genomics
+and proteomics.
+  The organization of the connectivity between mammalian cortical areas has
+become a major subject of study, because of its important role in scaffolding
+the macroscopic aspects of animal behavior and intelligence. In this study we
+present a computational reconstruction approach to the problem of network
+organization, by considering the topological and spatial features of each area
+in the primate cerebral cortex as subsidy for the reconstruction of the global
+cortical network connectivity. Starting with all areas being disconnected,
+pairs of areas with similar sets of features are linked together, in an attempt
+to recover the original network structure. Inferring primate cortical
+connectivity from the properties of the nodes, remarkably good reconstructions
+of the global network organization could be obtained, with the topological
+features allowing slightly superior accuracy to the spatial ones. Analogous
+reconstruction attempts for the C. elegans neuronal network resulted in
+substantially poorer recovery, indicating that cortical area interconnections
+are relatively stronger related to the considered topological and spatial
+properties than neuronal projections in the nematode. The close relationship
+between area-based features and global connectivity may hint on developmental
+rules and constraints for cortical networks. Particularly, differences between
+the predictions from topological and spatial properties, together with the
+poorer recovery resulting from spatial properties, indicate that the
+organization of cortical networks is not entirely determined by spatial
+constraints.
+  Position determination in biological systems is often achieved through
+protein concentration gradients. Measuring the local concentration of such a
+protein with a spatially-varying distribution allows the measurement of
+position within the system. In order for these systems to work effectively,
+position determination must be robust to noise. Here, we calculate fundamental
+limits to the precision of position determination by concentration gradients
+due to unavoidable biochemical noise perturbing the gradients. We focus on
+gradient proteins with first order reaction kinetics. Systems of this type have
+been experimentally characterised in both developmental and cell biology
+settings. For a single gradient we show that, through time-averaging, great
+precision can potentially be achieved even with very low protein copy numbers.
+As a second example, we investigate the ability of a system with oppositely
+directed gradients to find its centre. With this mechanism, positional
+precision close to the centre improves more slowly with increasing averaging
+time, and so longer averaging times or higher copy numbers are required for
+high precision. For both single and double gradients, we demonstrate the
+existence of optimal length scales for the gradients, where precision is
+maximized, as well as analyzing how precision depends on the size of the
+concentration measuring apparatus. Our results provide fundamental constraints
+on the positional precision supplied by concentration gradients in various
+contexts, including both in developmental biology and also within a single
+cell.
+  Simple nonlinear dynamical systems with multiple stable stationary states are
+often taken as models for switchlike biological systems. This paper considers
+the interaction of multiple such simple multistable systems when they are
+embedded together into a larger dynamical "supersystem." Attention is focused
+on the network structure of the resulting set of coupled differential
+equations, and the consequences of this structure on the propensity of the
+embedded switches to act independently versus cooperatively. Specifically, it
+is argued that both larger average and larger variance of the node degree
+distribution lead to increased switch independence. Given the frequency of
+empirical observations of high variance degree distributions (e.g., power-law)
+in biological networks, it is suggested that the results presented here may aid
+in identifying switch-integrating subnetworks as comparatively homogenous,
+low-degree, substructures. Potential applications to ecological problems such
+as the relationship of stability and complexity are also briefly discussed.
+  We present an exhaustive study of more than 250 ab initio potential energy
+surfaces (PESs) of the model dipeptide HCO-L-Ala-NH2. The model chemistries
+(MCs) used are constructed as homo- and heterolevels involving possibly
+different RHF and MP2 calculations for the geometry and the energy. The basis
+sets used belong to a sample of 39 selected representants from Pople's
+split-valence families, ranging from the small 3-21G to the large
+6-311++G(2df,2pd). The reference PES to which the rest are compared is the
+MP2/6-311++G(2df,2pd) homolevel, which, as far as we are aware, is the more
+accurate PES of a dipeptide in the literature. The aim of the study presented
+is twofold: On the one hand, the evaluation of the influence of polarization
+and diffuse functions in the basis set, distinguishing between those placed at
+1st-row atoms and those placed at hydrogens, as well as the effect of different
+contraction and valence splitting schemes. On the other hand, the investigation
+of the heterolevel assumption, which is defined here to be that which states
+that heterolevel MCs are more efficient than homolevel MCs. The heterolevel
+approximation is very commonly used in the literature, but it is seldom
+checked. As far as we know, the only tests for peptides or related systems,
+have been performed using a small number of conformers, and this is the first
+time that this potentially very economical approximation is tested in full
+PESs. In order to achieve these goals, all data sets have been compared and
+analyzed in a way which captures the nearness concept in the space of MCs.
+  Late long-term potentiation (L-LTP) appears essential for the formation of
+long-term memory, with memories at least partly encoded by patterns of
+strengthened synapses. How memories are preserved for months or years, despite
+molecular turnover, is not well understood. Ongoing recurrent neuronal
+activity, during memory recall or during sleep, has been hypothesized to
+preferentially potentiate strong synapses, preserving memories. This hypothesis
+has not been evaluated in the context of a mathematical model representing
+biochemical pathways important for L-LTP. I incorporated ongoing activity into
+two such models: a reduced model that represents some of the essential
+biochemical processes, and a more detailed published model. The reduced model
+represents synaptic tagging and gene induction intuitively, and the detailed
+model adds activation of essential kinases by Ca. Ongoing activity was modeled
+as continual brief elevations of [Ca]. In each model, two stable states of
+synaptic weight resulted. Positive feedback between synaptic weight and the
+amplitude of ongoing Ca transients underlies this bistability. A tetanic or
+theta-burst stimulus switches a model synapse from a low weight to a high
+weight stabilized by ongoing activity. Bistability was robust to parameter
+variations. Simulations illustrated that prolonged decreased activity reset
+synapses to low weights, suggesting a plausible forgetting mechanism. However,
+episodic activity with shorter inactive intervals maintained strong synapses.
+Both models support experimental predictions. Tests of these predictions are
+expected to further understanding of how neuronal activity is coupled to
+maintenance of synaptic strength.
+  We study the growth of a directed transportation network, such as a food web,
+in which links carry resources. We propose a growth process in which new nodes
+(or species) preferentially attach to existing nodes with high indegree (in
+food-web language, number of prey) and low outdegree (or number of predators).
+This scheme, which we call inverse preferential attachment, is intended to
+maximize the amount of resources available to each new node. We show that the
+outdegree (predator) distribution decays at least exponentially fast for large
+outdegree and is continuously tunable between an exponential distribution and a
+delta function. The indegree (prey) distribution is poissonian in the
+large-network limit.
+  The properties of certain networks are determined by hidden variables that
+are not explicitly measured. The conditional probability (propagator) that a
+vertex with a given value of the hidden variable is connected to k of other
+vertices determines all measurable properties. We study hidden variable models
+and find an averaging approximation that enables us to obtain a general
+analytical result for the propagator. Analytic results showing the validity of
+the approximation are obtained. We apply hidden variable models to
+protein-protein interaction networks (PINs) in which the hidden variable is the
+association free-energy, determined by distributions that depend on
+biochemistry and evolution. We compute degree distributions as well as
+clustering coefficients of several PINs of different species; good agreement
+with measured data is obtained. For the human interactome two different
+parameter sets give the same degree distributions, but the computed clustering
+coefficients differ by a factor of about two. This shows that degree
+distributions are not sufficient to determine the properties of PINs.
+  A general and basic model of primordial evolution--a soup of reacting
+finitary and discrete processes--is employed to identify and analyze
+fundamental mechanisms that generate and maintain complex structures in
+prebiotic systems. The processes--$\epsilon$-machines as defined in
+computational mechanics--and their interaction networks both provide well
+defined notions of structure. This enables us to quantitatively demonstrate
+hierarchical self-organization in the soup in terms of complexity. We found
+that replicating processes evolve the strategy of successively building higher
+levels of organization by autocatalysis. Moreover, this is facilitated by local
+components that have low structural complexity, but high generality. In effect,
+the finitary process soup spontaneously evolves a selection pressure that
+favors such components. In light of the finitary process soup's generality,
+these results suggest a fundamental law of hierarchical systems: global
+complexity requires local simplicity.
+  Background: Duplication of genes is important for evolution of molecular
+networks. Many authors have therefore considered gene duplication as a driving
+force in shaping the topology of molecular networks. In particular it has been
+noted that growth via duplication would act as an implicit way of preferential
+attachment, and thereby provide the observed broad degree distributions of
+molecular networks.
+  Results: We extend current models of gene duplication and rewiring by
+including directions and the fact that molecular networks are not a result of
+unidirectional growth. We introduce upstream sites and downstream shapes to
+quantify potential links during duplication and rewiring. We find that this in
+itself generates the observed scaling of transcription factors for genome sites
+in procaryotes. The dynamical model can generate a scale-free degree
+distribution, p(k)&prop; 1/k^&gamma;, with exponent &gamma;=1 in the
+non-growing case, and with &gamma;>1 when the network is growing.
+  Conclusions: We find that duplication of genes followed by substantial
+recombination of upstream regions could generate main features of genetic
+regulatory networks. Our steady state degree distribution is however to broad
+to be consistent with data, thereby suggesting that selective pruning acts as a
+main additional constraint on duplicated genes. Our analysis shows that gene
+duplication can only be a main cause for the observed broad degree
+distributions, if there is also substantial recombinations between upstream
+regions of genes.
+  Significant fraction (98.5% in humans) of most animal genomes is non- coding
+dark matter. Its largely unknown function (1-5) is related to programming
+(rather than to spontaneous mutations) of accurate adaptation to rapidly
+changing environment. Programmed adaptation to the same universal law for
+non-competing animals from anaerobic yeast to human is revealed in the study of
+their extensively quantified mortality (6-21). Adaptation of animals with
+removed non-coding DNA fractions may specify their contribution to genomic
+programming. Emergence of new adaptation programs and their (non-Mendelian)
+heredity may be studied in antibiotic mini-extinctions (22-24). On a large
+evolutionary scale rapid universal adaptation was vital for survival, and
+evolved, in otherwise lethal for diverse species major mass extinctions
+(25-28). Evolutionary and experimental data corroborate these conclusions
+(6-21, 29-32). Universal law implies certain biological universality of diverse
+species, thus quantifies applicability of animal models to humans). Genomic
+adaptation programming calls for unusual approach to its study and implies
+unanticipated perspectives, in particular, directed biological changes.
+  The probability distributions for bending angles in double helical DNA
+obtained in all-atom molecular dynamics simulations are compared with
+theoretical predictions. The computed distributions remarkably agree with the
+worm-like chain theory for double helices of one helical turn and longer, and
+qualitatively differ from predictions of the semi-elastic chain model. The
+computed data exhibit only small anomalies in the apparent flexibility of short
+DNA and cannot account for the recently reported AFM data (Wiggins et al,
+Nature nanotechnology 1, 137 (2006)). It is possible that the current atomistic
+DNA models miss some essential mechanisms of DNA bending on intermediate length
+scales. Analysis of bent DNA structures reveals, however, that the bending
+motion is structurally heterogeneous and directionally anisotropic on the
+intermediate length scales where the experimental anomalies were detected.
+These effects are essential for interpretation of the experimental data and
+they also can be responsible for the apparent discrepancy.
+  Schroedinger's book 'What is Life?' is widely credited for having played a
+crucial role in development of molecular and cellular biology. My essay
+revisits the issues raised by this book from the modern perspective of
+epigenetics and systems biology. I contrast two classes of potential mechanisms
+of epigenetic stability: 'epigenetic templating' and 'systems biology'
+approaches, and consider them from the point of view expressed by Schroedinger.
+I also discuss how quantum entanglement, a nonclassical feature of quantum
+mechanics, can help to address the 'problem of small numbers' that lead
+Schroedinger to promote the idea of molecular code-script for explanation of
+stability of biological order.
+  We investigate dynamical systems characterized by a time series of distinct
+semi-stable activity patterns, as they are observed in cortical neural activity
+patterns. We propose and discuss a general mechanism allowing for an adiabatic
+continuation between attractor networks and a specific adjoined transient-state
+network, which is strictly dissipative. Dynamical systems with transient states
+retain functionality when their working point is autoregulated; avoiding
+prolonged periods of stasis or drifting into a regime of rapid fluctuations. We
+show, within a continuous-time neural network model, that a single local
+updating rule for online learning allows simultaneously (i) for information
+storage via unsupervised Hebbian-type learning, (ii) for adaptive regulation of
+the working point and (iii) for the suppression of runaway synaptic growth.
+Simulation results are presented; the spontaneous breaking of time-reversal
+symmetry and link symmetry are discussed.
+  BACKGROUND: Many of the mutations accumulated by naturally evolving proteins
+are neutral in the sense that they do not significantly alter a protein's
+ability to perform its primary biological function. However, new protein
+functions evolve when selection begins to favor other, "promiscuous" functions
+that are incidental to a protein's biological role. If mutations that are
+neutral with respect to a protein's primary biological function cause
+substantial changes in promiscuous functions, these mutations could enable
+future functional evolution.
+  RESULTS: Here we investigate this possibility experimentally by examining how
+cytochrome P450 enzymes that have evolved neutrally with respect to activity on
+a single substrate have changed in their abilities to catalyze reactions on
+five other substrates. We find that the enzymes have sometimes changed as much
+as four-fold in the promiscuous activities. The changes in promiscuous
+activities tend to increase with the number of mutations, and can be largely
+rationalized in terms of the chemical structures of the substrates. The
+activities on chemically similar substrates tend to change in a coordinated
+fashion, potentially providing a route for systematically predicting the change
+in one function based on the measurement of several others.
+  CONCLUSIONS: Our work suggests that initially neutral genetic drift can lead
+to substantial changes in protein functions that are not currently under
+selection, in effect poising the proteins to more readily undergo functional
+evolution should selection "ask new questions" in the future.
+  The evolution of multicellular organisms from monocellular ancestors
+represents one of the greatest advances of the history of life. The assembly of
+such multicellular organisms requires signalling and response between cells:
+over millions of years these signalling processes have become extremely
+sophisticated and refined by evolution, such that study of modern organisms may
+not be able to shed much light on the original ancient processes . Here we are
+interested in determining how simple a signalling method can be, while still
+achieving self-assembly. In 2D a coupled cellular automaton/differential
+equation approach models organisms and chemotaxic chemicals, producing
+spiralling aggregation. In 3D Lennard-Jones-like particles are used to
+represent single cells, and their evolution in response to signalling is
+followed by molecular dynamics. It is found that if a single cell is able to
+emit a signal which induces others to move towards it, then a colony of
+single-cell organisms can assemble into shapes as complex as a tower, a ball
+atop a stalk, or a fast-moving slug. The similarity with the behaviour of
+modern Dictyostelium slime molds signalling with cyclic adenosine monophosphate
+(cAMP) is striking.
+  In the simplest view of transcriptional regulation, the expression of a gene
+is turned on or off by changes in the concentration of a transcription factor
+(TF). We use recent data on noise levels in gene expression to show that it
+should be possible to transmit much more than just one regulatory bit.
+Realizing this optimal information capacity would require that the dynamic
+range of TF concentrations used by the cell, the input/output relation of the
+regulatory module, and the noise levels of binding and transcription satisfy
+certain matching relations. This parameter-free prediction is in good agreement
+with recent experiments on the Bicoid/Hunchback system in the early Drosophila
+embryo, and this system achieves ~90% of its theoretical maximum information
+transmission.
+  Previously, we have identified the cytoplasmic zinc metalloprotease
+insulin-degrading enzyme(IDE) in human tissues by an immunohistochemical method
+involving no antigen retrieval (AR) by pressure cooking to avoid artifacts by
+endogenous biotin exposure and a detection kit based on the labeled
+streptavidin biotin (LSAB) method. Thereby, we also employed 3% hydrogen
+peroxide(H2O2) for the inhibition of endogenous peroxidase activity and
+incubated the tissue sections with the biotinylated secondary antibody at room
+temperature (RT). We now add the immunohistochemical details that had led us to
+this optimized procedure as they also bear a more general relevance when
+demonstrating intracellular tissue antigens. Our most important result is that
+endogenous peroxidase inhibition by 0.3% H2O2 coincided with an apparently
+positive IDE staining in an investigated breast cancer specimen whereas
+combining a block by 3% H2O2 with an incubation of the biotinylated secondary
+antibody at RT, yet not at 37 degrees Celsius, revealed this specimen as almost
+entirely IDE-negative. Our present data caution against three different
+immunohistochemical pitfalls that might cause falsely positive results and
+artifacts when using an LSAB- and peroxidase-based detection method: pressure
+cooking for AR, insufficient quenching of endogenous peroxidases and heating of
+tissue sections while incubating with biotinylated secondary antibodies.
+  In recent years, several authors have used probabilistic graphical models to
+learn expression modules and their regulatory programs from gene expression
+data. Here, we demonstrate the use of the synthetic data generator SynTReN for
+the purpose of testing and comparing module network learning algorithms. We
+introduce a software package for learning module networks, called LeMoNe, which
+incorporates a novel strategy for learning regulatory programs. Novelties
+include the use of a bottom-up Bayesian hierarchical clustering to construct
+the regulatory programs, and the use of a conditional entropy measure to assign
+regulators to the regulation program nodes. Using SynTReN data, we test the
+performance of LeMoNe in a completely controlled situation and assess the
+effect of the methodological changes we made with respect to an existing
+software package, namely Genomica. Additionally, we assess the effect of
+various parameters, such as the size of the data set and the amount of noise,
+on the inference performance. Overall, application of Genomica and LeMoNe to
+simulated data sets gave comparable results. However, LeMoNe offers some
+advantages, one of them being that the learning process is considerably faster
+for larger data sets. Additionally, we show that the location of the regulators
+in the LeMoNe regulation programs and their conditional entropy may be used to
+prioritize regulators for functional validation, and that the combination of
+the bottom-up clustering strategy with the conditional entropy-based assignment
+of regulators improves the handling of missing or hidden regulators.
+  The classical approach to protein folding inspired by statistical mechanics
+avoids the high dimensional structure of the conformation space by using
+effective coordinates. Here we introduce a network approach to capture the
+statistical properties of the structure of conformation spaces. Conformations
+are represented as nodes of the network, while links are transitions via
+elementary rotations around a chemical bond. Self-avoidance of a polypeptide
+chain introduces degree correlations in the conformation network, which in turn
+lead to energy landscape correlations. Folding can be interpreted as a biased
+random walk on the conformation network. We show that the folding pathways
+along energy gradients organize themselves into scale free networks, thus
+explaining previous observations made via molecular dynamics simulations. We
+also show that these energy landscape correlations are essential for recovering
+the observed connectivity exponent, which belongs to a different universality
+class than that of random energy models. In addition, we predict that the
+exponent and therefore the structure of the folding network fundamentally
+changes at high temperatures, as verified by our simulations on the AK peptide.
+  We have developed a linearization method to investigate the subthreshold
+oscillatory behaviors in nonlinear autonomous systems. By considering firstly
+the neuronal system as an example, we show that this theoretical approach can
+predict quantitatively the subthreshold oscillatory activities, including the
+damping coefficients and the oscillatory frequencies which are in good
+agreement with those observed in experiments. Then we generalize the
+linearization method to an arbitrary autonomous nonlinear system. The detailed
+extension of this theoretical approach is also presented and further discussed.
+  The widespread use of genetic testing in high risk pregnancies has created
+strong interest in rapid and accurate molecular diagnostics for common
+chromosomal aneuploidies. We show here that digital polymerase chain reaction
+(dPCR) can be used for accurate measurement of trisomy 21 (Down's Syndrome),
+the most common human aneuploidy. dPCR is generally applicable to any
+aneuploidy, does not depend on allelic distribution or gender, and is able to
+detect signals in the presence of mosaics or contaminating maternal DNA.
+  We consider a probabilistic cellular automaton to analyze the stochastic
+dynamics of a predator-prey system. The local rules are Markovian and are based
+in the Lotka-Volterra model. The individuals of each species reside on the
+sites of a lattice and interact with an unsymmetrical neighborhood. We look for
+the effect of the space anisotropy in the characterization of the oscillations
+of the species population densities. Our study of the probabilistic cellular
+automaton is based on simple and pair mean-field approximations and explicitly
+takes into account spatial anisotropy.
+  Hayashi and Carthew (Nature 431 [2004], 647) have shown that the packing of
+cone cells in the Drosophila retina resembles soap bubble packing, and that
+changing E- and N-cadherin expression can change this packing, as well as cell
+shape.
+  The analogy with bubbles suggests that cell packing is driven by surface
+minimization. We find that this assumption is insufficient to model the
+experimentally observed shapes and packing of the cells based on their cadherin
+expression. We then consider a model in which adhesion leads to a surface
+increase, balanced by cell cortex contraction. Using the experimentally
+observed distributions of E- and N-cadherin, we simulate the packing and cell
+shapes in the wildtype eye. Furthermore, by changing only the corresponding
+parameters, this model can describe the mutants with different numbers of
+cells, or changes in cadherin expression.
+  Invited contribution to "Quantum Aspects of Life", D. Abbott Ed. (World
+Scientific, Singapore, 2007).
+  The present paper introduces an original biofeedback system for improving
+human balance control, whose underlying principle consists in providing
+additional sensory information related to foot sole pressure distribution to
+the user through a tongue-placed tactile output device. To assess the effect of
+this biofeedback system on postural control during quiet standing, ten young
+healthy adults were asked to stand as immobile as possible with their eyes
+closed in two conditions of No-biofeedback and Biofeedback. Centre of foot
+pressure (CoP) displacements were recorded using a force platform. Results
+showed reduced CoP displacements in the Biofeedback relative to the
+No-biofeedback condition. The present findings evidenced the ability of the
+central nervous system to efficiently integrate an artificial plantar-based,
+tongue-placed tactile biofeedback for controlling control posture during quiet
+standing.
+  A dynamical mean-field theory is developed to analyze stochastic single-cell
+dynamics of gene expression. By explicitly taking account of nonequilibrium and
+nonadiabatic features of the DNA state fluctuation, two-time correlation
+functions and response functions of single-cell dynamics are derived. The
+method is applied to a self-regulating gene to predict a rich variety of
+dynamical phenomena such as anomalous increase of relaxation time and
+oscillatory decay of correlations. Effective "temperature" defined as the ratio
+of the correlation to the response in the protein number is small when the DNA
+state change is frequent, while it grows large when the DNA state change is
+infrequent, indicating the strong enhancement of noise in the latter case.
+  We consider the asymptotic behaviour of the solution of one dimensional
+stochastic differential equations and Langevin equations in periodic
+backgrounds with zero average. We prove that in several such models, there is
+generically a non vanishing asymptotic velocity, despite of the fact that the
+average of the background is zero.
+  This article reports about a novel extension of dissipative particle dynamics
+(DPD) that allows the study of the collective dynamics of complex chemical and
+structural systems in a spatially resolved manner with a combinatorially
+complex variety of different system constituents. We show that introducing
+multipolar interactions between particles leads to extended membrane structures
+emerging in a self-organized manner and exhibiting both the necessary
+mechanical stability for transport and fluidity so as to provide a
+two-dimensional self-organizing dynamic reaction environment for kinetic
+studies in the context of cell biology. We further show that the emergent
+dynamics of extended membrane bound objects is in accordance with scaling laws
+imposed by physics.
+  We propose that genetic encoding of self-assembling components greatly
+enhances the evolution of complex systems and provides an efficient platform
+for inductive generalization, i.e. the inductive derivation of a solution to a
+problem with a potentially infinite number of instances from a limited set of
+test examples. We exemplify this in simulations by evolving scalable circuitry
+for several problems. One of them, digital multiplication, has been intensively
+studied in recent years, where hitherto the evolutionary design of only
+specific small multipliers was achieved. The fact that this and other problems
+can be solved in full generality employing self-assembly sheds light on the
+evolutionary role of self-assembly in biology and is of relevance for the
+design of complex systems in nano- and bionanotechnology.
+  A basic question of protein structural studies is to which extent mutations
+affect the stability. This question may be addressed starting from sequence
+and/or from structure. In proteomics and genomics studies prediction of protein
+stability free energy change (DDG) upon single point mutation may also help the
+annotation process. The experimental SSG values are affected by uncertainty as
+measured by standard deviations. Most of the DDG values are nearly zero (about
+32% of the DDG data set ranges from -0.5 to 0.5 Kcal/mol) and both the value
+and sign of DDG may be either positive or negative for the same mutation
+blurring the relationship among mutations and expected DDG value. In order to
+overcome this problem we describe a new predictor that discriminates between 3
+mutation classes: destabilizing mutations (DDG<-0.5 Kcal/mol), stabilizing
+mutations (DDG>0.5 Kcal/mol) and neutral mutations (-0.5<=DDG<=0.5 Kcal/mol).
+In this paper a support vector machine starting from the protein sequence or
+structure discriminates between stabilizing, destabilizing and neutral
+mutations. We rank all the possible substitutions according to a three state
+classification system and show that the overall accuracy of our predictor is as
+high as 52% when performed starting from sequence information and 58% when the
+protein structure is available, with a mean value correlation coefficient of
+0.30 and 0.39, respectively. These values are about 20 points per cent higher
+than those of a random predictor.
+  We study a model ecosystem by means of dynamical techniques from disordered
+systems theory. The model describes a set of species subject to competitive
+interactions through a background of resources, which they feed upon.
+Additionally direct competitive or co-operative interaction between species may
+occur through a random coupling matrix. We compute the order parameters of the
+system in a fixed point regime, and identify the onset of instability and
+compute the phase diagram. We focus on the effects of variability of resources,
+direct interaction between species, co-operation pressure and dilution on the
+stability and the diversity of the ecosystem. It is shown that resources can be
+exploited optimally only in absence of co-operation pressure or direct
+interaction between species.
+  Biologists are leading current research on genome characterization
+(sequencing, alignment, transcription), providing a huge quantity of raw data
+about many genome organisms. Extracting knowledge from this raw data is an
+important process for biologists, using usually data mining approaches.
+However, it is difficult to deals with these genomic information using actual
+bioinformatics data mining tools, because data are heterogeneous, huge in
+quantity and geographically distributed. In this paper, we present a new
+approach between data mining and virtual reality visualization, called visual
+data mining. Indeed Virtual Reality becomes ripe, with efficient display
+devices and intuitive interaction in an immersive context. Moreover, biologists
+use to work with 3D representation of their molecules, but in a desktop
+context. We present a software solution, Genome3DExplorer, which addresses the
+problem of genomic data visualization, of scene management and interaction.
+This solution is based on a well-adapted graphical and interaction paradigm,
+where local and global topological characteristics of data are easily visible,
+on the contrary to traditional genomic database browsers, always focused on the
+zoom and details level.
+  A major challenge in analyzing animal behavior is to discover some underlying
+simplicity in complex motor actions. Here we show that the space of shapes
+adopted by the nematode C. elegans is surprisingly low dimensional, with just
+four dimensions accounting for 95% of the shape variance, and we partially
+reconstruct "equations of motion" for the dynamics in this space. These
+dynamics have multiple attractors, and we find that the worm visits these in a
+rapid and almost completely deterministic response to weak thermal stimuli.
+Stimulus-dependent correlations among the different modes suggest that one can
+generate more reliable behaviors by synchronizing stimuli to the state of the
+worm in shape space. We confirm this prediction, effectively "steering" the
+worm in real time.
+  The self-propelled motion of microscopic bodies immersed in a fluid medium is
+studied using molecular dynamics simulation. The advantage of the atomistic
+approach is that the detailed level of description allows complete freedom in
+specifying the swimmer design and its coupling with the surrounding fluid. A
+series of two-dimensional swimming bodies employing a variety of propulsion
+mechanisms -- motivated by biological and microrobotic designs -- is
+investigated, including the use of moving limbs, changing body shapes and fluid
+jets. The swimming efficiency and the nature of the induced, time-dependent
+flow fields are found to differ widely among body designs and propulsion
+mechanisms.
+  Three-dimensional (3D) chromatin structure is closely related to genome
+function, in particular transcription. However, the folding path of the
+chromatin fiber in the interphase nucleus is unknown. Here, we systematically
+measured the 3D physical distance between pairwise labeled genomic positions in
+gene-dense, highly transcribed domains and gene-poor less active areas on
+chromosomes 1 and 11 in G1 nuclei of human primary fibroblasts, using
+fluorescence in situ hybridization. Interpretation of our results and those
+published by others, based on polymer physics, shows that the folding of the
+chromatin fiber can be described as a polymer in a globular state (GS),
+maintained by intra-polymer attractive interactions that counteract
+self-avoidance forces. The GS polymer model is able to describe chromatin
+folding in as well the highly expressed domains as the lowly expressed ones,
+indicating that they differ in Kuhn length and chromatin compaction. Each type
+of genomic domain constitutes an ensemble of relatively compact globular
+folding states, resulting in a considerable cellto- cell variation between
+otherwise identical cells. We present evidence for different polymer folding
+regimes of the chromatin fiber on the length scale of a few mega base pairs and
+on that of complete chromosome arms (several tens of Mb). Our results present a
+novel view on the folding of the chromatin fiber in interphase and open the
+possibility to explore the nature of the intra-chromatin fiber interactions.
+  The prediction of the three-dimensional native structure of proteins from the
+knowledge of their amino acid sequence, known as the protein folding problem,
+is one of the most important yet unsolved issues of modern science. Since the
+conformational behaviour of flexible molecules is nothing more than a complex
+physical problem, increasingly more physicists are moving into the study of
+protein systems, bringing with them powerful mathematical and computational
+tools, as well as the sharp intuition and deep images inherent to the physics
+discipline. This work attempts to facilitate the first steps of such a
+transition. In order to achieve this goal, we provide an exhaustive account of
+the reasons underlying the protein folding problem enormous relevance and
+summarize the present-day status of the methods aimed to solving it. We also
+provide an introduction to the particular structure of these biological
+heteropolymers, and we physically define the problem stating the assumptions
+behind this (commonly implicit) definition. Finally, we review the 'special
+flavor' of statistical mechanics that is typically used to study the
+astronomically large phase spaces of macromolecules. Throughout the whole work,
+much material that is found scattered in the literature has been put together
+here to improve comprehension and to serve as a handy reference.
+  We investigate the effects of risk perception in a simple model of epidemic
+spreading. We assume that the perception of the risk of being infected depends
+on the fraction of neighbors that are ill. The effect of this factor is to
+decrease the infectivity, that therefore becomes a dynamical component of the
+model. We study the problem in the mean-field approximation and by numerical
+simulations for regular, random and scale-free networks.
+  We show that for homogeneous and random networks, there is always a value of
+perception that stops the epidemics. In the ``worst-case'' scenario of a
+scale-free network with diverging input connectivity, a linear perception
+cannot stop the epidemics; however we show that a non-linear increase of the
+perception risk may lead to the extinction of the disease. This transition is
+discontinuous, and is not predicted by the mean-field analysis.
+  We report a first in modeling and simulation of the effects of the HIV
+proteins on the (caspase dependent) apoptotic pathway in infected cells. This
+work is novel and is an extension on the recent reports and clarifications on
+the FAS apoptotic pathway from the literature. We have gathered most of the
+reaction rates and initial conditions from the literature, the rest of the
+constants have been computed by fitting our model to the experimental results
+reported. Using the model obtained we have then run the simulations for the
+infected memory T cells, called also latent T cells, which, at the moment,
+represent the major obstacle to finding a cure for HIV. We can now report that
+the infected latent T cells have an estimated lifetime of about 42 hours from
+the moment they are re-activated. As far as we know this is the first result of
+this type obtained for the infected memory T cells.
+  We construct a unifying theory of geometric effects in mesoscopic stochastic
+kinetics. We demonstrate that the adiabatic pump and the reversible ratchet
+effects, as well as similar new phenomena in other domains, such as in
+epidemiology, all follow from geometric phase contributions to the effective
+action in the stochastic path integral representation of the moment generating
+function. The theory provides the universal technique for identification,
+prediction and calculation of pump-like phenomena in an arbitrary mesoscopic
+stochastic framework.
+  Random networks with specified degree distributions have been proposed as
+realistic models of population structure, yet the problem of dynamically
+modeling SIR-type epidemics in random networks remains complex. I resolve this
+dilemma by showing how the SIR dynamics can be modeled with a system of three
+nonlinear ODE's. The method makes use of the probability generating function
+(PGF) formalism for representing the degree distribution of a random network
+and makes use of network-centric quantities such as the number of edges in a
+well-defined category rather than node-centric quantities such as the number of
+infecteds or susceptibles. The PGF provides a simple means of translating
+between network and node-centric variables and determining the epidemic
+incidence at any time. The theory also provides a simple means of tracking the
+evolution of the degree distribution among susceptibles or infecteds. The
+equations are used to demonstrate the dramatic effects that the degree
+distribution plays on the final size of an epidemic as well as the speed with
+which it spreads through the population. Power law degree distributions are
+observed to generate an almost immediate expansion phase yet have a smaller
+final size compared to homogeneous degree distributions such as the Poisson.
+The equations are compared to stochastic simulations, which show good agreement
+with the theory. Finally, the dynamic equations provide an alternative way of
+determining the epidemic threshold where large-scale epidemics are expected to
+occur, and below which epidemic behavior is limited to finite-sized outbreaks.
+  Contact patterns in populations fundamentally influence the spread of
+infectious diseases. Current mathematical methods for epidemiological
+forecasting on networks largely assume that contacts between individuals are
+fixed, at least for the duration of an outbreak. In reality, contact patterns
+may be quite fluid, with individuals frequently making and breaking social or
+sexual relationships. Here we develop a mathematical approach to predicting
+disease transmission on dynamic networks in which each individual has a
+characteristic behavior (typical contact number), but the identities of their
+contacts change in time. We show that dynamic contact patterns shape
+epidemiological dynamics in ways that cannot be adequately captured in static
+network models or mass-action models. Our new model interpolates smoothly
+between static network models and mass-action models using a mixing parameter,
+thereby providing a bridge between disparate classes of epidemiological models.
+Using epidemiological and sexual contact data from an Atlanta high school, we
+then demonstrate the utility of this method for forecasting and controlling
+sexually transmitted disease outbreaks.
+  We analytically and numerically study the probabilistic properties of
+inverted and mirror repeats in model sequences of nucleic acids. We consider
+both perfect and non-perfect repeats, i.e. repeats with mismatches and gaps.
+The considered sequence models are independent identically distributed (i.i.d.)
+sequences, Markov processes and long range sequences. We show that the number
+of repeats in correlated sequences is significantly larger than in i.i.d.
+sequences and that this discrepancy increases exponentially with the repeat
+length for long range sequences.
+  We present a model improving the two-angle model for interphase chromatin
+(E2A model). This model takes into account the cylindrical shape of the histone
+octamers, the H1 histones in front of the nucleosomes and the vertical distance
+$d$ between the in and outgoing DNA strands. Factoring these chromatin features
+in, one gets essential changes in the chromatin phase diagram: Not only the
+shape of the excluded-volume borderline changes but also the vertical distance
+$d$ has a dramatic influence on the forbidden area. Furthermore, we examined
+the influence of H1 defects on the properties of the chromatin fiber. Thus we
+present two possible strategies for chromatin compaction: The use of very dense
+states in the phase diagram in the gaps in the excluded volume borderline or
+missing H1 histones which can lead to very compact fibers. The chromatin fiber
+might use both of these mechanisms to compact itself at least locally. Line
+densities computed within the model coincident with the experimental values.
+  We suggest a simple deterministic approximation for the growth of the
+favoured-allele frequency during a selective sweep. Using this approximation we
+introduce an accurate model for genetic hitch-hiking. Only when Ns < 10 (N is
+the population size and s denotes the selection coefficient), are discrepancies
+between our approximation and direct numerical simulations of a Moran model
+noticeable. Our model describes the gene genealogies of a contiguous segment of
+neutral loci close to the selected one, and it does not assume that the
+selective sweep happens instantaneously. This enables us to compute SNP
+distributions on the neutral segment without bias.
+  Both short interfering RNAs (siRNAs) and microRNAs (miRNAs) mediate the
+repression of specific sequences of mRNA through the RNA interference pathway.
+In the last years several experiments have supported the hypothesis that siRNAs
+and miRNAs may be functionally interchangeable, at least in cultured cells. In
+this work we verify that this hypothesis is also supported by a computational
+evidence. We show that a method specifically trained to predict the activity of
+the exogenous siRNAs assigns a high silencing level to experimentally
+determined human miRNAs. This result not only supports the idea of siRNAs and
+miRNAs equivalence but indicates that it is possible to use computational tools
+developed using synthetic small interference RNAs to investigate endogenous
+miRNAs.
+  In this paper, we present a method to optimise rough set partition sizes, to
+which rule extraction is performed on HIV data. The genetic algorithm
+optimisation technique is used to determine the partition sizes of a rough set
+in order to maximise the rough sets prediction accuracy. The proposed method is
+tested on a set of demographic properties of individuals obtained from the
+South African antenatal survey. Six demographic variables were used in the
+analysis, these variables are; race, age of mother, education, gravidity,
+parity, and age of father, with the outcome or decision being either HIV
+positive or negative. Rough set theory is chosen based on the fact that it is
+easy to interpret the extracted rules. The prediction accuracy of equal width
+bin partitioning is 57.7% while the accuracy achieved after optimising the
+partitions is 72.8%. Several other methods have been used to analyse the HIV
+data and their results are stated and compared to that of rough set theory
+(RST).
+  A synfire chain is a simple neural network model which can propagate stable
+synchronous spikes called a pulse packet and widely researched. However how
+synfire chains coexist in one network remains to be elucidated. We have studied
+the activity of a layered associative network of Leaky Integrate-and-Fire
+neurons in which connection we embed memory patterns by the Hebbian Learning.
+We analyzed their activity by the Fokker-Planck method. In our previous report,
+when a half of neurons belongs to each memory pattern (memory pattern rate
+$F=0.5$), the temporal profiles of the network activity is split into
+temporally clustered groups called sublattices under certain input conditions.
+In this study, we show that when the network is sparsely connected ($F<0.5$),
+synchronous firings of the memory pattern are promoted. On the contrary, the
+densely connected network ($F>0.5$) inhibit synchronous firings. The sparseness
+and denseness also effect the basin of attraction and the storage capacity of
+the embedded memory patterns. We show that the sparsely(densely) connected
+networks enlarge(shrink) the basion of attraction and increase(decrease) the
+storage capacity.
+  Analyzing nonlinear conformational relaxation dynamics in elastic networks
+corresponding to two classical motor proteins, we find that they respond by
+well-defined internal mechanical motions to various initial deformations and
+that these motions are robust against external perturbations. We show that this
+behavior is not characteristic for random elastic networks. However, special
+network architectures with such properties can be designed by evolutionary
+optimization methods. Using them, an example of an artificial elastic network,
+operating as a cyclic machine powered by ligand binding, is constructed.
+  Molecular spiders are synthetic bio-molecular systems which have "legs" made
+of short single-stranded segments of DNA. Spiders move on a surface covered
+with single-stranded DNA segments complementary to legs. Different mappings are
+established between various models of spiders and simple exclusion processes.
+For spiders with simple gait and varying number of legs we compute the
+diffusion coefficient; when the hopping is biased we also compute their
+velocity.
+  Synthetic bio-molecular spiders with "legs" made of single-stranded segments
+of DNA can move on a surface which is also covered by single-stranded segments
+of DNA complementary to the leg DNA. In experimental realizations, when a leg
+detaches from a segment of the surface for the first time it alters that
+segment, and legs subsequently bound to these altered segments more weakly.
+Inspired by these experiments we investigate spiders moving along a
+one-dimensional substrate, whose legs leave newly visited sites at a slower
+rate than revisited sites. For a random walk (one-leg spider) the slowdown does
+not effect the long time behavior. For a bipedal spider, however, the slowdown
+generates an effective bias towards unvisited sites, and the spider behaves
+similarly to the excited walk. Surprisingly, the slowing down of the spider at
+new sites increases the diffusion coefficient and accelerates the growth of the
+number of visited sites.
+  It has been shown that differences in fecundity variance can influence the
+probability of invasion of a genotype in a population, i.e. a genotype with
+lower variance in offspring number can be favored in finite populations even if
+it has a somewhat lower mean fitness than a competitor. In this paper,
+Gillespie's results are extended to population genetic systems with explicit
+age structure, where the demographic variance (variance in growth rate)
+calculated in the work of Engen and colleagues is used as a generalization of
+"variance in offspring number" to predict the interaction between deterministic
+and random forces driving change in allele frequency. By calculating the
+variance from the life history parameters, it is shown that selection against
+variance in the growth rate will favor a genotypes with lower stochasticity in
+age specific survival and fertility rates. A diffusion approximation for
+selection and drift in a population with two genotypes with different life
+history matrices (and therefore, different growth rates and demographic
+variances) is derived and shown to be consistent with individual based
+simulations. It is also argued that for finite populations, perturbation
+analyses of both the growth rate and demographic variances may be necessary to
+determine the sensitivity of "fitness" (broadly defined) to changes in the life
+history parameters.
+  Motivation: Similarity-measure based clustering is a crucial problem
+appearing throughout scientific data analysis. Recently, a powerful new
+algorithm called Affinity Propagation (AP) based on message-passing techniques
+was proposed by Frey and Dueck \cite{Frey07}. In AP, each cluster is identified
+by a common exemplar all other data points of the same cluster refer to, and
+exemplars have to refer to themselves. Albeit its proved power, AP in its
+present form suffers from a number of drawbacks. The hard constraint of having
+exactly one exemplar per cluster restricts AP to classes of regularly shaped
+clusters, and leads to suboptimal performance, {\it e.g.}, in analyzing gene
+expression data. Results: This limitation can be overcome by relaxing the AP
+hard constraints. A new parameter controls the importance of the constraints
+compared to the aim of maximizing the overall similarity, and allows to
+interpolate between the simple case where each data point selects its closest
+neighbor as an exemplar and the original AP. The resulting soft-constraint
+affinity propagation (SCAP) becomes more informative, accurate and leads to
+more stable clustering. Even though a new {\it a priori} free-parameter is
+introduced, the overall dependence of the algorithm on external tuning is
+reduced, as robustness is increased and an optimal strategy for parameter
+selection emerges more naturally. SCAP is tested on biological benchmark data,
+including in particular microarray data related to various cancer types. We
+show that the algorithm efficiently unveils the hierarchical cluster structure
+present in the data sets. Further on, it allows to extract sparse gene
+expression signatures for each cluster.
+  With an automatic image analysis device, we studied the temporal distribution
+of the locomotor activity of E. orientalis and E. vuilleti during 24 h, and
+over several days to know whether the activity rhythms of these two Eupelmidae
+play a role in their competitive interactions. The analysis of locomotor
+activity rhythms of E. orientalis and E. vuilleti shows that the locomotor
+activity of both species presents daily cyclic variations. These two Eupelmidae
+have similar activity rhythms. Displacements of these parasitoids essentially
+take place during the photophase. But the activity of E. vuilleti is earlier,
+because the individuals of this species start their activity on average 4 to 5
+h earlier than those of E. orientalis. E. vuilleti begins its displacements
+several hours before the onset of lighting, whereas E. orientalis is active
+only in the presence of the light. This shift of starting activity is thus a
+factor allowing these concurrent species to minimize their interactions during
+the cohabitation period in traditional granaries after the harvests of cowpea.
+  There are many processes in biology in which mechanical forces are generated.
+Force-bearing networks can transduce locally developed mechanical signals very
+extensively over different parts of the cell or tissues. In this article we
+conduct an overview of this kind of mechanical transduction, focusing in
+particular on the multiple layers of complexity displayed by the mechanisms
+that control and trigger the conversion of a mechanical signal into a
+biochemical function. Single molecule methodologies, through their capability
+to introduce the force in studies of biological processes in which mechanical
+stresses are developed, are unveiling subtle intertwining mechanisms between
+chemistry and mechanics and in particular are revealing how chemistry can
+control mechanics. The possibility that chemistry interplays with mechanics
+should be always considered in biochemical studies.
+  In Chile and Uruguay,the gregarious Pteromalidae (Monoksa dorsiplana) has
+been discovered emerging from seeds of the persistent pods of Acacia caven
+attacked by the univoltin bruchid Pseudopachymeria spinipes. We investigated
+the potential for mass rearing of this gregarious ectoparasitoid on an
+alternative bruchid host, Callosobruchus maculatus, to use it against the
+bruchidae of native and cultured species of Leguminosea seeds in South America.
+The mass rearing of M.dorsiplana was carried out in a population cage where the
+density of egg-laying females per infested seed was increased from 1:1 on the
+first day to 5:1 on the last (fifth) day. Under these experimental conditions
+egg-clutch size per host increased, and at the same time the mortality of eggs
+laid also increased. The density of egg-laying females influenced the sex ratio
+which tended towards a balance of sons and daughters,in contrast to the sex
+ratio of a single egg-laying female per host (1 son to 7 daughters). The mean
+weight of adults emerging from a parasitized host was negatively correlated
+with the egg-clutch size, i.e., as egg-clutch size increased, adult weight
+decreased. All these results show that mass rearing of the gregarious
+ectoparasitoid M.dorsiplana was possible under laboratory conditions on an
+alternative bruchid host C.maculatus. As M.dorsiplana is a natural enemy of
+larval and pupal stages of bruchidae, the next step was to investigate whether
+the biological control of bruchid C.maculatus was possible in an experimental
+structure of stored beans.
+  A phase field model for dealing with shape instabilities in fluid membrane
+vesicles is presented. This model takes into account the Canham-Helfrich
+bending energy with spontaneous curvature. A dynamic equation for the
+phase-field is also derived. With this model it is possible to see the vesicle
+shape deformation dynamically, when some external agent instabilizes the
+membrane, for instance, inducing an inhomogeneous spontaneous curvature. The
+numerical scheme used is detailed and some stationary shapes are shown together
+with a shape diagram for vesicles of spherical topology and no spontaneous
+curvature, in agreement with known results.
+  A mathematical model of infiltrative tumour growth taking into account cell
+proliferation, death and motility is considered. The model is formulated in
+terms of local cell density and nutrient (oxygen) concentration. In the model
+the rate of cell death depends on the local nutrient level. Thus heterogeneous
+nutrient distribution in tissue affects tumour structure and development. The
+existence of automodel solutions is demonstrated and their properties are
+investigated. The results are compared to the properties of the
+Kolmogorov-Petrovskii-Piskunov and Fisher equations. Influence of the nutrient
+distribution on the autowave speed selection as well as on the relaxation to
+automodel solution is demonstrated. The model adequately describes the data,
+observed in experiments.
+  The stability of the dynamical states characterized by a uniform firing rate
+({\it splay states}) is analyzed in a network of globally coupled leaky
+integrate-and-fire neurons. This is done by reducing the set of differential
+equations to a map that is investigated in the limit of large network size. We
+show that the stability of the splay state depends crucially on the ratio
+between the pulse--width and the inter-spike interval. More precisely, the
+spectrum of Floquet exponents turns out to consist of three components: (i) one
+that coincides with the predictions of the mean-field analysis [Abbott-van
+Vreesvijk, 1993]; (ii) a component measuring the instability of
+"finite-frequency" modes; (iii) a number of "isolated" eigenvalues that are
+connected to the characteristics of the single pulse and may give rise to
+strong instabilities (the Floquet exponent being proportional to the network
+size). Finally, as a side result, we find that the splay state can be stable
+even for inhibitory coupling.
+  The metabolic networks are very well characterized for a large set of
+organisms, a unique case in within the large-scale biological networks. For
+this reason they provide a a very interesting framework for the construction of
+analytically tractable statistical mechanics models.
+  In this paper we introduce a solvable model for the distribution of fluxes in
+the metabolic network. We show that the effect of the topology on the
+distribution of fluxes is to allow for large fluctuations of their values, a
+fact that should have implications on the robustness of the system.
+  We investigate the mechanisms of histone sliding and detachment with a
+stochastic model that couples thermally-induced, passive histone sliding with
+active motor-driven histone unwrapping. Analysis of a passive loop or twist
+defect-mediated histone sliding mechanism shows that diffusional sliding is
+enhanced as larger portions of the DNA is peeled off the histone. The mean
+times to histone detachment and the mean distance traveled by the motor complex
+prior to histone detachment are computed as functions of the intrinsic speed of
+the motor. Fast motors preferentially induce detachment over sliding. However,
+for a fixed motor speed, increasing the histone-DNA affinity (and thereby
+decreasing the passive sliding rate) increases the mean distance traveled by
+the motor.
+  Background: Information processing in the brain requires large amounts of
+metabolic energy, the spatial distribution of which is highly heterogeneous
+reflecting complex activity patterns in the mammalian brain.
+  Results: Here, it is found based on empirical data that, despite this
+heterogeneity, the volume-specific cerebral glucose metabolic rate of many
+different brain structures scales with brain volume with almost the same
+exponent around -0.15. The exception is white matter, the metabolism of which
+seems to scale with a standard specific exponent -1/4. The scaling exponents
+for the total oxygen and glucose consumptions in the brain in relation to its
+volume are identical and equal to $0.86\pm 0.03$, which is significantly larger
+than the exponents 3/4 and 2/3 suggested for whole body basal metabolism on
+body mass.
+  Conclusions: These findings show explicitly that in mammals (i)
+volume-specific scaling exponents of the cerebral energy expenditure in
+different brain parts are approximately constant (except brain stem
+structures), and (ii) the total cerebral metabolic exponent against brain
+volume is greater than the much-cited Kleiber's 3/4 exponent. The
+neurophysiological factors that might account for the regional uniformity of
+the exponents and for the excessive scaling of the total brain metabolism are
+discussed, along with the relationship between brain metabolic scaling and
+computation.
+  This paper presents a stability test for a class of interconnected nonlinear
+systems motivated by biochemical reaction networks. One of the main results
+determines global asymptotic stability of the network from the diagonal
+stability of a "dissipativity matrix" which incorporates information about the
+passivity properties of the subsystems, the interconnection structure of the
+network, and the signs of the interconnection terms. This stability test
+encompasses the "secant criterion" for cyclic networks presented in our
+previous paper, and extends it to a general interconnection structure
+represented by a graph. A second main result allows one to accommodate state
+products. This extension makes the new stability criterion applicable to a
+broader class of models, even in the case of cyclic systems. The new stability
+test is illustrated on a mitogen activated protein kinase (MAPK) cascade model,
+and on a branched interconnection structure motivated by metabolic networks.
+Finally, another result addresses the robustness of stability in the presence
+of diffusion terms in a compartmental system made out of identical systems.
+  The behavior of interacting populations typically displays irregular temporal
+and spatial patterns that are difficult to reconcile with an underlying
+deterministic dynamics. A classical example is the heterogeneous distribution
+of plankton communities, which has been observed to be patchy over a wide range
+of spatial and temporal scales. Here, we use plankton communities as prototype
+systems to present theoretical approaches for the analysis of the combined
+effects of turbulent advection and stochastic growth in the spatiotemporal
+dynamics of the population. Incorporation of these two factors into
+mathematical models brings an extra level of realism to the description and
+leads to better agreement with experimental data than that of previously
+proposed models based on reaction-diffusion equations.
+  The equilibrium free energy landscape of an off-lattice model protein as a
+function of an internal (reaction) coordinate is reconstructed from
+out-of-equilibrium mechanical unfolding manipulations. This task is
+accomplished via two independent methods: by employing an extended version of
+the Jarzynski equality (EJE) and the protein inherent structures (ISs). In a
+range of temperatures around the ``folding transition'' we find a good
+quantitative agreement between the free energies obtained via EJE and IS
+approaches. This indicates that the two methodologies are consistent and able
+to reproduce equilibrium properties of the examined system. Moreover, for the
+studied model the structural transitions induced by pulling can be related to
+thermodynamical aspects of folding.
+  From the spectral plot of the (normalized) graph Laplacian, the essential
+qualitative properties of a network can be simultaneously deduced. Given a
+class of empirical networks, reconstruction schemes for elucidating the
+evolutionary dynamics leading to those particular data can then be developed.
+This method is exemplified for protein-protein interaction networks. Traces of
+their evolutionary history of duplication and divergence processes are
+identified. In particular, we can identify typical specific features that
+robustly distinguish protein-protein interaction networks from other classes of
+networks, in spite of possible statistical fluctuations of the underlying data.
+  Mechanistic home range models are important tools in modeling animal dynamics
+in spatially-complex environments. We introduce a class of stochastic models
+for animal movement in a habitat of varying preference. Such models interpolate
+between spatially-implicit resource selection analysis (RSA) and
+advection-diffusion models, possessing these two models as limiting cases. We
+find a closed-form solution for the steady-state (equilibrium) probability
+distribution u* using a factorization of the redistribution operator into
+symmetric and diagonal parts. How space use is controlled by the preference
+function w then depends on the characteristic width of the redistribution
+kernel: when w changes rapidly compared to this width, u* ~ w, whereas on
+global scales large compared to this width, u* ~ w^2. We analyse the behavior
+at discontinuities in w which occur at habitat type boundaries. We simulate the
+dynamics of space use given two-dimensional prey-availability data and explore
+the effect of the redistribution kernel width. Our factorization allows such
+numerical simulations to be done extremely fast; we expect this to aid the
+computationally-intensive task of model parameter fitting and inverse modeling.
+  In this paper we describe a new technique for the comparison of populations
+of DNA strands. Comparison is vital to the study of ecological systems, at both
+the micro and macro scales. Existing methods make use of DNA sequencing and
+cloning, which can prove costly and time consuming, even with current
+sequencing techniques. Our overall objective is to address questions such as:
+(i) (Genome detection) Is a known genome sequence present, at least in part, in
+an environmental sample? (ii) (Sequence query) Is a specific fragment sequence
+present in a sample? (iii) (Similarity discovery) How similar in terms of
+sequence content are two unsequenced samples? We propose a method involving
+multiple filtering criteria that result in "pools" of DNA of high or very high
+purity. Because our method is similar in spirit to hashing in computer science,
+we call it DNA hash pooling. To illustrate this method, we describe protocols
+using pairs of restriction enzymes. The in silico empirical results we present
+reflect a sensitivity to experimental error. Our method will normally be
+performed as a filtering step prior to sequencing in order to reduce the amount
+of sequencing required (generally by a factor of 10 or more). Even as
+sequencing becomes cheaper, an order of magnitude remains important.
+  We investigate the hydrodynamic interactions between microorganisms swimming
+at low Reynolds number. By considering simple model swimmers, and combining
+analytic and numerical approaches, we investigate the time-averaged flow field
+around a swimmer. At short distances the swimmer behaves like a pump. At large
+distances the velocity field depends on whether the swimming stroke is
+invariant under a combined time-reversal and parity transformation. We then
+consider two swimmers and find that the interaction between them consists of
+two parts; a dead term, independent of the motion of the second swimmer, which
+takes the expected dipolar form and a live term resulting from the simultaneous
+swimming action of both swimmers which does not. We argue that, in general, the
+latter dominates. The swimmer--swimmer interaction is a complicated function of
+their relative displacement, orientation and phase, leading to motion that can
+be attractive, repulsive or oscillatory.
+  We consider two seemingly very different self-assembly processes: formation
+of viral capsids, and crystallization of sticky discs. At low temperatures,
+assembly is ineffective, since there are many metastable disordered states,
+which are a source of kinetic frustration. We use fluctuation-dissipation
+ratios to extract information about the degree of this frustration. We show
+that our analysis is a useful indicator of the long term fate of the system,
+based on the early stages of assembly.
+  We present a mathematical analysis of the effects of Hebbian learning in
+random recurrent neural networks, with a generic Hebbian learning rule
+including passive forgetting and different time scales for neuronal activity
+and learning dynamics. Previous numerical works have reported that Hebbian
+learning drives the system from chaos to a steady state through a sequence of
+bifurcations. Here, we interpret these results mathematically and show that
+these effects, involving a complex coupling between neuronal dynamics and
+synaptic graph structure, can be analyzed using Jacobian matrices, which
+introduce both a structural and a dynamical point of view on the neural network
+evolution. Furthermore, we show that the sensitivity to a learned pattern is
+maximal when the largest Lyapunov exponent is close to 0. We discuss how neural
+networks may take advantage of this regime of high functional interest.
+  A spontaneously active neural system that is capable of continual learning
+should also be capable of homeostasis of both firing rate and connectivity.
+Experimental evidence suggests that both types of homeostasis exist, and that
+connectivity is maintained at a state that is optimal for information
+transmission and storage. This state is referred to as the critical state. We
+present a simple stochastic computational Hebbian learning model that
+incorporates both firing rate and critical homeostasis, and we explore its
+stability and connectivity properties. We also examine the behavior of our
+model with a simulated seizure and with simulated acute deafferentation. We
+argue that a neural system that is more highly connected than the critical
+state (i.e., one that is "supercritical") is epileptogenic. Based on our
+simulations, we predict that the post-seizural and post-deafferentation states
+should be supercritical and epileptogenic. Furthermore, interventions that
+boost spontaneous activity should be protective against epileptogenesis.
+  In this paper, we present a spatial version of phytoplankton-zooplankton
+model that includes some important factors such as external periodic forces,
+noise, and diffusion processes. The spatially extended
+phytoplankton-zooplankton system is from the original study by Scheffer [M
+Scheffer, Fish and nutrients interplay determines algal biomass: a minimal
+model, Oikos \textbf{62} (1991) 271-282]. Our results show that the spatially
+extended system exhibit a resonant patterns and frequency-locking phenomena.
+The system also shows that the noise and the external periodic forces play a
+constructive role in the Scheffer's model: first, the noise can enhance the
+oscillation of phytoplankton species' density and format a large clusters in
+the space when the noise intensity is within certain interval. Second, the
+external periodic forces can induce 4:1 and 1:1 frequency-locking and spatially
+homogeneous oscillation phenomena to appear. Finally, the resonant patterns are
+observed in the system when the spatial noises and external periodic forces are
+both turned on. Moreover, we found that the 4:1 frequency-locking transform
+into 1:1 frequency-locking when the noise intensity increased. In addition to
+elucidating our results outside the domain of Turing instability, we provide
+further analysis of Turing linear stability with the help of the numerical
+calculation by using the Maple software. Significantly, oscillations are
+enhanced in the system when the noise term presents. These results indicate
+that the oceanic plankton bloom may partly due to interplay between the
+stochastic factors and external forces instead of deterministic factors. These
+results also may help us to understand the effects arising from undeniable
+subject to random fluctuations in oceanic plankton bloom.
+  Intracellular recordings of cortical neurons in vivo display intense
+subthreshold membrane potential (Vm) activity. The power spectral density (PSD)
+of the Vm displays a power-law structure at high frequencies (>50 Hz) with a
+slope of about -2.5. This type of frequency scaling cannot be accounted for by
+traditional models, as either single-compartment models or models based on
+reconstructed cell morphologies display a frequency scaling with a slope close
+to -4. This slope is due to the fact that the membrane resistance is
+"short-circuited" by the capacitance for high frequencies, a situation which
+may not be realistic. Here, we integrate non-ideal capacitors in cable
+equations to reflect the fact that the capacitance cannot be charged
+instantaneously. We show that the resulting "non-ideal" cable model can be
+solved analytically using Fourier transforms. Numerical simulations using a
+ball-and-stick model yield membrane potential activity with similar frequency
+scaling as in the experiments. We also discuss the consequences of using
+non-ideal capacitors on other cellular properties such as the transmission of
+high frequencies, which is boosted in non-ideal cables, or voltage attenuation
+in dendrites. These results suggest that cable equations based on non-ideal
+capacitors should be used to capture the behavior of neuronal membranes at high
+frequencies.
+  In this work we develop a microscopic physical model of early evolution,
+where phenotype,organism life expectancy, is directly related to genotype, the
+stability of its proteins in their native conformations which can be determined
+exactly in the model. Simulating the model on a computer, we consistently
+observe the Big Bang scenario whereby exponential population growth ensues as
+soon as favorable sequence-structure combinations (precursors of stable
+proteins) are discovered. Upon that, random diversity of the structural space
+abruptly collapses into a small set of preferred proteins. We observe that
+protein folds remain stable and abundant in the population at time scales much
+greater than mutation or organism lifetime, and the distribution of the
+lifetimes of dominant folds in a population approximately follows a power law.
+The separation of evolutionary time scales between discovery of new folds and
+generation of new sequences gives rise to emergence of protein families and
+superfamilies whose sizes are power-law distributed, closely matching the same
+distributions for real proteins. On the population level we observe emergence
+of species, subpopulations which carry similar genomes. Further we present a
+simple theory that relates stability of evolving proteins to the sizes of
+emerging genomes. Together, these results provide a microscopic first
+principles picture of how first gene families developed in the course of early
+evolution
+  Molecular biology is a nanotechnology that works--it has worked for billions
+of years and in an amazing variety of circumstances. At its core is a system
+for acquiring, processing and communicating information that is universal, from
+viruses and bacteria to human beings. Advances in genetics and experience in
+designing computers have taken us to a stage where we can understand the
+optimisation principles at the root of this system, from the availability of
+basic building blocks to the execution of tasks. The languages of DNA and
+proteins are argued to be the optimal solutions to the information processing
+tasks they carry out. The analysis also suggests simpler predecessors to these
+languages, and provides fascinating clues about their origin. Obviously, a
+comprehensive unraveling of the puzzle of life would have a lot to say about
+what we may design or convert ourselves into.
+  This paper develops a mathematical model describing the influence that
+conjugation-mediated Horizontal Gene Transfer (HGT) has on the
+mutation-selection balance in an asexually reproducing population of
+unicellular, prokaryotic organisms. It is assumed that mutation-selection
+balance is reached in the presence of a fixed background concentration of
+antibiotic, to which the population must become resistant in order to survive.
+We analyze the behavior of the model in the limit of low and high
+antibiotic-induced first-order death rate constants, and find that the highest
+mean fitness is obtained at low rates of bacterial conjugation. As the rate of
+conjugation crosses a threshold, the mean fitness decreases to a minimum, and
+then rises asymptotically to a limiting value as the rate of conjugation
+becomes infinitely large. However, this limiting value is smaller than the mean
+fitness obtained in the limit of low conjugation rate. This dependence of the
+mean fitness on the conjugation rate is fairly small for the parameter ranges
+we have considered, and disappears as the first-order death rate constant due
+to the presence of antibiotic approaches zero. For large values of the
+antibiotic death rate constant, we have obtained an analytical solution for the
+behavior of the mean fitness that agrees well with the results of simulations.
+The results of this paper suggest that conjugation-mediated HGT has a slightly
+deleterious effect on the mean fitness of a population at mutation-selection
+balance. Therefore, we argue that HGT confers a selective advantage by allowing
+for faster adaptation to a new or changing environment. The results of this
+paper are consistent with the observation that HGT can be promoted by
+environmental stresses on a population.
+  The problem of reconstructing and identifying intracellular protein signaling
+and biochemical networks is of critical importance in biology today. We sought
+to develop a mathematical approach to this problem using, as a test case, one
+of the most well-studied and clinically important signaling networks in biology
+today, the epidermal growth factor receptor (EGFR) driven signaling cascade.
+More specifically, we suggest a method, augmented sparse reconstruction, for
+the identification of links among nodes of ordinary differential equation (ODE)
+networks from a small set of trajectories with different initial conditions.
+Our method builds a system of representation by using a collection of integrals
+of all given trajectories and by attenuating block of terms in the
+representation itself. The system of representation is then augmented with
+random vectors, and minimization of the 1-norm is used to find sparse
+representations for the dynamical interactions of each node. Augmentation by
+random vectors is crucial, since sparsity alone is not able to handle the large
+error-in-variables in the representation. Augmented sparse reconstruction
+allows to consider potentially very large spaces of models and it is able to
+detect with high accuracy the few relevant links among nodes, even when
+moderate noise is added to the measured trajectories. After showing the
+performance of our method on a model of the EGFR protein network, we sketch
+briefly the potential future therapeutic applications of this approach.
+  Classical population genetics a priori assigns fitness to alleles without
+considering molecular or functional properties of proteins that these alleles
+encode. Here we study population dynamics in a model where fitness can be
+inferred from physical properties of proteins under a physiological assumption
+that loss of stability of any protein encoded by an essential gene confers a
+lethal phenotype. Accumulation of mutations in organisms containing Gamma genes
+can then be represented as diffusion within the Gamma dimensional hypercube
+with adsorbing boundaries which are determined, in each dimension, by loss of a
+protein stability and, at higher stability, by lack of protein sequences.
+Solving the diffusion equation whose parameters are derived from the data on
+point mutations in proteins, we determine a universal distribution of protein
+stabilities, in agreement with existing data. The theory provides a fundamental
+relation between mutation rate, maximal genome size and thermodynamic response
+of proteins to point mutations. It establishes a universal speed limit on rate
+of molecular evolution by predicting that populations go extinct (via lethal
+mutagenesis) when mutation rate exceeds approximately 6 mutations per essential
+part of genome per replication for mesophilic organisms and 1 to 2 mutations
+per genome per replication for thermophilic ones. Further, our results suggest
+that in absence of error correction, modern RNA viruses and primordial genomes
+must necessarily be very short. Several RNA viruses function close to the
+evolutionary speed limit while error correction mechanisms used by DNA viruses
+and non-mutant strains of bacteria featuring various genome lengths and
+mutation rates have brought these organisms universally about 1000 fold below
+the natural speed limit.
+  The number of fixed mutations accumulated in an evolving population often
+displays a variance that is significantly larger than the mean (the
+overdispersed molecular clock). By examining a generic evolutionary process on
+a neutral network of high-fitness genotypes, we establish a formalism for
+computing all cumulants of the full probability distribution of accumulated
+mutations in terms of graph properties of the neutral network, and use the
+formalism to prove overdispersion of the molecular clock. We further show that
+significant overdispersion arises naturally in evolution when the neutral
+network is highly sparse, exhibits large global fluctuations in neutrality, and
+small local fluctuations in neutrality. The results are also relevant for
+elucidating the topological structure of a neutral network from empirical
+measurements of the substitution process.
+  In a recent paper, Marr, Muller-Linow and Hutt [Phys. Rev. E 75, 041917
+(2007)] investigate an artificial dynamic system on metabolic networks. They
+find a less complex time evolution of this dynamic system in real networks,
+compared to networks of reference models. The authors argue that this suggests
+that metabolic network structure is a major factor behind the stability of
+biochemical steady states. We reanalyze the same kind of data using a dynamic
+system modeling actual reaction kinetics. The conclusions about stability, from
+our analysis, are inconsistent with those of Marr et al. We argue that this
+issue calls for a more detailed type of modeling.
+  Recently Supernova 2006gy was noted as the most luminous ever recorded, with
+a total radiated energy of ~10^44 Joules. It was proposed that the progenitor
+may have been a massive evolved star similar to eta Carinae, which resides in
+our own galaxy at a distance of about 2.3 kpc. eta Carinae appears ready to
+detonate. Although it is too distant to pose a serious threat as a normal
+supernova, and given its rotation axis is unlikely to produce a Gamma-Ray Burst
+oriented toward the Earth, eta Carinae is about 30,000 times nearer than
+2006gy, and we re-evaluate it as a potential superluminous supernova. We find
+that given the large ratio of emission in the optical to the X-ray, atmospheric
+effects are negligible. Ionization of the atmosphere and concomitant ozone
+depletion are unlikely to be important. Any cosmic ray effects should be spread
+out over ~10^4 y, and similarly unlikely to produce any serious perturbation to
+the biosphere. We also discuss a new possible effect of supernovae, endocrine
+disruption induced by blue light near the peak of the optical spectrum. This is
+a possibility for nearby supernovae at distances too large to be considered
+"dangerous" for other reasons. However, due to reddening and extinction by the
+interstellar medium, eta Carinae is unlikely to trigger such effects to any
+significant degree.
+  Recent in vitro data show that neurons respond to input variance with varying
+sensitivities. Here, we demonstrate that Hodgkin-Huxley (HH) neurons can
+operate in two computational regimes, one that is more sensitive to input
+variance (differentiating) and one that is less sensitive (integrating). A
+boundary plane in the 3D conductance space separates these two regimes. For a
+reduced HH model, this plane can be derived analytically from the V nullcline,
+thus suggesting a means of relating biophysical parameters to neural
+computation by analyzing the neuron's dynamical system.
+  In this paper we apply new geometric and combinatorial methods to the study
+of phylogenetic mixtures. The focus of the geometric approach is to describe
+the geometry of phylogenetic mixture distributions for the two state random
+cluster model, which is a generalization of the two state symmetric (CFN)
+model. In particular, we show that the set of mixture distributions forms a
+convex polytope and we calculate its dimension; corollaries include a simple
+criterion for when a mixture of branch lengths on the star tree can mimic the
+site pattern frequency vector of a resolved quartet tree. Furthermore, by
+computing volumes of polytopes we can clarify how ``common'' non-identifiable
+mixtures are under the CFN model. We also present a new combinatorial result
+which extends any identifiability result for a specific pair of trees of size
+six to arbitrary pairs of trees. Next we present a positive result showing
+identifiability of rates-across-sites models. Finally, we answer a question
+raised in a previous paper concerning ``mixed branch repulsion'' on trees
+larger than quartet trees under the CFN model.
+  Mortality, birth rates and retirement play a major role in demographic
+changes. In most cases, mortality rates decreased in the past century without
+noticeable decrease in fertility rates, this leads to a significant increase in
+population growth. In many poor countries like Palestinian territories the
+number of births has fallen and the life expectancy increased.
+  In this article we concentrate on measuring, analyzing and extrapolating the
+age structure in Palestine a few decades ago into future. A Fortran program has
+been designed and used for the simulation and analysis of our statistical data.
+This study of demographic change in Palestine has shown that Palestinians will
+have in future problems as the strongest age cohorts are the above-60-year
+olds. We therefore recommend the increase of both the retirement age and women
+employment.
+  A novel approach to protein multiple sequence alignment is discussed:
+substantially this method counterparts with substitution matrix based methods
+(like Blosum or PAM based methods), and implies a more deterministic approach
+to chemical/physical sub-grouping of amino acids . Amino acids (aa) are divided
+into sub-groups with successive derivations, that result in a clustering based
+on the considered property. The properties can be user defined or chosen
+between default schemes, like those used in the analysis described here.
+Starting from an initial set of the 20 naturally occurring amino acids, they
+are successively divided on the basis of their polarity/hydrophobic index, with
+increasing resolution up to four level of subdivision. Other schemes of
+subdivision are possible: in this thesis work it was employed also a scheme
+based on physical/structural properties (solvent exposure, lateral chain
+mobility and secondary structure tendency), that have been compared to the
+chemical scheme with testing purposes. In the method described in this chapter,
+the total score for each position in the alignment accounts for different
+degree of similarity between amino acids. The scoring value result form the
+contribution of each level of selectivity for every individual property
+considered. Simply the method (called M_Al) analyse the n sequence alignment
+position per position and assigns a score which have contributes by aa identity
+plus a composed valuation of the chemical or of the structural affinity between
+the n aligned amino acids. This method has been implemented in a series of
+programs written in python language; these programs have been tested in some
+biological cases, with benchmark purposes.
+  Ni\'eb\'e is a food leguminous plant cultivated in tropical Africa for its
+seeds rich in proteins. The main problem setted by its production is the
+conservation of harvests. In the fields as in the stocks, the seeds are
+destroyed by pests (bruchids). These bruchids are always associated with
+several entomophagous species of hymenoptera. Four entomophagous species were
+listed : an egg parasitoid (U lariophaga Stephan), and three solitary larval
+and pupal ectoparasitoids (D. Basalis Rondoni, Pteromalidae; E. vuilleti
+Crawford and E. orientalis Crawford, Eupelmidae). The survey of the populations
+shows that at the beginning of storage, E orientalis is the most abundant
+specie (72 %) whereas E. vuilleti and D. Basalis respectively represent 12 %
+and 16 % of the hymenoptera. During storage, the E orientalis population
+decreases gradually and it disappears completely in less than two months after
+the beginning of storage. E. Vuilleti population becomes gradually more
+important than D. basalis population which regress until less than 10 % of the
+emerging parasitoids. E vuilleti adopts ovicide and larvicide behaviour against
+D. Basalis. This behaviour explains its population regression inside granaries.
+If the aggressive behaviour of this Eupelmidae is a constant, that could also
+explain the disappearance of E orientalis. However if this species is
+maintained in stocks, it would be an effective control agent of bruchids
+according to their parasitic capacities. This study shows that ovicide and
+larvicide behaviour of E vuilleti is not expressed against E orientalis. When
+the females have exclusively the hosts already parasitized by E orientalis,
+they do not lay eggs. The disappearance of E orientalis could not thus be
+explained by the presence of E. vuilleti.
+  Selective control in a population is the ability to control a member of the
+population while leaving the other members relatively unaffected. The concept
+of selective control is developed using cell death or apoptosis in
+heterogeneous cell populations as an example. Apoptosis signaling in
+heterogeneous cells is described by an ensemble of gene networks with identical
+topology but different link strengths. Selective control depends on the
+statistics of signaling in the ensemble of networks and we analyse the effects
+of superposition, non-linearity and feedback on these statistics. Parallel
+pathways promote normal statistics while series pathways promote skew
+distributions which in the most extreme cases become log-normal. We also show
+that feedback and non-linearity can produce bimodal signaling statistics, as
+can discreteness and non-linearity. Two methods for optimizing selective
+control are presented. The first is an exhaustive search method and the second
+is a linear programming based approach. Though control of a single gene in the
+signaling network yields little selectivity, control of a few genes typically
+yields higher levels of selectivity. The statistics of gene combinations
+susceptible to selective control is studied and is used to identify general
+control strategies. We found that selectivity is promoted by acting on the
+least sensitive nodes in the case of weak populations, while selective control
+of robust populations is optimized through perturbations of more sensitive
+nodes. High throughput experiments with heterogeneous cell lines could be
+designed in an analogous manner, with the further possibility of incorporating
+the selectivity optimization process into a closed-loop control system.
+  Bacterial chemotaxis in Escherichia coli is a canonical system for the study
+of signal transduction. A remarkable feature of this system is the coexistence
+of precise adaptation in population with large fluctuating cellular behavior in
+single cells (Korobkova et al. 2004, Nature, 428, 574). Using a stochastic
+model, we found that the large behavioral variability experimentally observed
+in non-stimulated cells is a direct consequence of the architecture of this
+adaptive system. Reversible covalent modification cycles, in which methylation
+and demethylation reactions antagonistically regulate the activity of
+receptor-kinase complexes, operate outside the region of first-order kinetics.
+As a result, the receptor-kinase that governs cellular behavior exhibits a
+sigmoidal activation curve. This curve simultaneously amplifies the inherent
+stochastic fluctuations in the system and lengthens the relaxation time in
+response to stimulus. Because stochastic fluctuations cause large behavioral
+variability and the relaxation time governs the average duration of runs in
+response to small stimuli, cells with the greatest fluctuating behavior also
+display the largest chemotactic response. Finally, Large-scale simulations of
+digital bacteria suggest that the chemotaxis network is tuned to simultaneously
+optimize the random spread of cells in absence of nutrients and the cellular
+response to gradients of attractant.
+  Biological networks have evolved to be highly functional within uncertain
+environments while remaining extremely adaptable. One of the main contributors
+to the robustness and evolvability of biological networks is believed to be
+their modularity of function, with modules defined as sets of genes that are
+strongly interconnected but whose function is separable from those of other
+modules. Here, we investigate the in silico evolution of modularity and
+robustness in complex artificial metabolic networks that encode an increasing
+amount of information about their environment while acquiring ubiquitous
+features of biological, social, and engineering networks, such as scale-free
+edge distribution, small-world property, and fault-tolerance. These networks
+evolve in environments that differ in their predictability, and allow us to
+study modularity from topological, information-theoretic, and gene-epistatic
+points of view using new tools that do not depend on any preconceived notion of
+modularity. We find that for our evolved complex networks as well as for the
+yeast protein-protein interaction network, synthetic lethal pairs consist
+mostly of redundant genes that lie close to each other and therefore within
+modules, while knockdown suppressor pairs are farther apart and often straddle
+modules, suggesting that knockdown rescue is mediated by alternative pathways
+or modules. The combination of network modularity tools together with genetic
+interaction data constitutes a powerful approach to study and dissect the role
+of modularity in the evolution and function of biological networks.
+  This review presents the elastic theory of low-dimensional (one- and
+two-dimensional) continua and its applications in bio- and nano-structures.
+First, the curve and surface theory, as the geometric representation of the
+low-dimensional continua, is briefly described through Cartan moving frame
+method. The elastic theory of Kirchhoff rod, Helfrich rod, bending-soften rod,
+fluid membrane, and solid shell is revisited. Secondly, the application and
+availability of the elastic theory of low-dimensional continua in
+bio-structures, including short DNA rings, lipid membranes, and cell membranes,
+are discussed. The kink stability of short DNA rings is addressed by using the
+theory of Kirchhoff rod, Helfrich rod, and bending-soften rod. The lipid
+membranes obey the theory of fluid membrane. A cell membrane is simplified as a
+composite shell of lipid bilayer and membrane skeleton, which is a little
+similar to the solid shell. It is found that the membrane skeleton enhances
+highly the mechanical stability of cell membranes. Thirdly, the application and
+availability of the elastic theory of low-dimensional continua in
+nano-structures, including graphene and carbon nanotubes, are discussed. A
+revised Lenosky lattice model is proposed based on the local density
+approximation. Its continuum form up to the second order terms of curvatures
+and strains is the same as the free energy of 2D solid shells. Several typical
+mechanical properties of carbon nanotubes are revisited and investigated based
+on this continuum form. It is possible to avoid introducing the controversial
+concepts, the Young's modulus and thickness of graphene and single-walled
+carbon nanotubes, with this continuum form.
+  Structural fluctuations in the thermal equilibrium of the kinesin motor
+domain are studied using a lattice protein model with Go interactions. By means
+of the multi-self-overlap ensemble (MSOE) Monte Carlo method and the principal
+component analysis (PCA), the free-energy landscape is obtained. It is shown
+that kinesins have two subdomains that exhibit partial folding/unfolding at
+functionally important regions: one is located around the nucleotide binding
+site and the other includes the main microtubule binding site. These subdomains
+are consistent with structural variability that was reported recently based on
+experimentally-obtained structures. On the other hand, such large structural
+fluctuations have not been captured by B-factor or normal mode analyses. Thus,
+they are beyond the elastic regime, and it is essential to take into account
+chain connectivity for studying the function of kinesins.
+  We derive rigorous results describing the asymptotic dynamics of a discrete
+time model of spiking neurons introduced in \cite{BMS}. Using symbolic dynamic
+techniques we show how the dynamics of membrane potential has a one to one
+correspondence with sequences of spikes patterns (``raster plots''). Moreover,
+though the dynamics is generically periodic, it has a weak form of initial
+conditions sensitivity due to the presence of a sharp threshold in the model
+definition. As a consequence, the model exhibits a dynamical regime
+indistinguishable from chaos in numerical experiments.
+  We present the spectrum of the (normalized) graph Laplacian as a systematic
+tool for the investigation of networks, and we describe basic properties of
+eigenvalues and eigenfunctions. Processes of graph formation like motif joining
+or duplication leave characteristic traces in the spectrum. This can suggest
+hypotheses about the evolution of a graph representing biological data. To this
+data, we analyze several biological networks in terms of rough qualitative data
+of their spectra.
+  It is common to use reciprocal best hits, also known as a boomerang
+criterion, for determining orthology between sequences. The best hits may be
+found by blast, or by other more recently developed algorithms. Previous work
+seems to have assumed that reciprocal best hits is a sufficient but not
+necessary condition for orthology. In this article, I explain why reciprocal
+best hits cannot logically be a sufficient condition for orthology. If
+reciprocal best hits is neither sufficient nor necessary for orthology, it
+would seem worthwhile to examine further the logical foundations of some
+unsupervised algorithms that are used to identify orthologs.
+  Transcription networks, and other directed networks can be characterized by
+some topological observables such as for example subgraph occurrence (network
+motifs). In order to perform such kind of analysis, it is necessary to be able
+to generate suitable randomized network ensembles. Typically, one considers
+null networks with the same degree sequences of the original ones. The commonly
+used algorithms sometimes have long convergence times, and sampling problems.
+We present here an alternative, based on a variant of the importance sampling
+Montecarlo developed by Chen et al. [1].
+  The binding neuron model is inspired by numerical simulation of
+Hodgkin-Huxley-type point neuron, as well as by the leaky integrate-and-fire
+model. In the binding neuron, the trace of an input is remembered for a fixed
+period of time after which it disappears completely. This is in the contrast
+with the above two models, where the postsynaptic potentials decay
+exponentially and can be forgotten only after triggering. The finiteness of
+memory in the binding neuron allows one to construct fast recurrent networks
+for computer modeling. Recently, the finiteness is utilized for exact
+mathematical description of the output stochastic process if the binding neuron
+is driven with the Poissonian input stream. In this paper, the simplest
+networking is considered for binding neuron. Namely, it is expected that every
+output spike of single neuron is immediately fed into its input. For this
+construction, externally fed with Poissonian stream, the output stream is
+characterized in terms of interspike interval probability density distribution
+if the binding neuron has threshold 2. For higher thresholds, the distribution
+is calculated numerically. The distributions are compared with those found for
+binding neuron without feedback, and for leaky integrator. Sample distributions
+for leaky integrator with feedback are calculated numerically as well. It is
+oncluded that even the simplest networking can radically alter spikng
+statistics. Information condensation at the level of single neuron is
+discussed.
+  The persistent pods of the tree, Acacia caven, that do not fall from the tree
+provide opportunities for the appearance of a diverse group of insects the
+following season. Such pods collected during the spring of 1999 in Chile were
+indehiscent with highly sclerified pod walls. In contrast, persistent pods
+collected in Uruguay after a wet winter and spring (2002) were partially
+dehiscent, inducing the deterioration of the woody pods, and consequently
+exposing the seeds. These persistent pods are a natural refuge for insect
+species, namely two bruchid beetles (Pseudopachymeria spinipes, Stator
+furcatus), one scolytidae (Dendroctonus sp), lepidopterous larvae, ant colonies
+(Camponotus sp),one species of oophagous parasitoid (Uscana espinae group
+senex), the gregarious larval-pupae parasitoid Monoksa dorsiplana
+(Pteromalidae) and two species of Horismenus spp. (Eulophidae). The patriline
+of M. dorsiplana is frequently formed by 1 son +7 daughters.
+  A coarse-grained variational model is used to investigate the polymer
+dynamics of barrier crossing for a diverse set of two-state folding proteins.
+The model gives reliable folding rate predictions provided excluded volume
+terms that induce minor structural cooperativity are included in the
+interaction potential. In general, the cooperative folding routes have sharper
+interfaces between folded and unfolded regions of the folding nucleus and
+higher free energy barriers. The calculated free energy barriers are strongly
+correlated with native topology as characterized by contact order. Increasing
+the rigidity of the folding nucleus changes the local structure of the
+transition state ensemble non-uniformly across the set of protein studied.
+Neverthless, the calculated prefactors k0 are found to be relatively uniform
+across the protein set, with variation in 1/k0 less than a factor of five. This
+direct calculation justifies the common assumption that the prefactor is
+roughly the same for all small two-state folding proteins. Using the barrier
+heights obtained from the model and the best fit monomer relaxation time 30ns,
+we find that 1/k0 (1-5)us (with average 1/k0 4us). This model can be extended
+to study subtle aspects of folding such as the variation of the folding rate
+with stability or solvent viscosity, and the onset of downhill folding.
+  Pathways are integral to systems biology. Their classical representation has
+proven useful but is inconsistent in the meaning assigned to each arrow (or
+edge) and inadvertently implies the isolation of one pathway from another.
+Conversely, modern high-throughput experiments give rise to standardized
+networks facilitating topological calculations. Combining these perspectives,
+we can embed classical pathways within large-scale networks and thus
+demonstrate the crosstalk between them. As more diverse types of
+high-throughput data become available, we can effectively merge both
+perspectives, embedding pathways simultaneously in multiple networks. However,
+the original problem still remains - the current edge representation is
+inadequate to accurately convey all the information in pathways. Therefore, we
+suggest that a standardized, well-defined, edge ontology is necessary and
+propose a prototype here, as a starting point for reaching this goal.
+  In this paper, we consider the statistical analysis of a protein interaction
+network. We propose a Bayesian model that uses a hierarchy of probabilistic
+assumptions about the way proteins interact with one another in order to: (i)
+identify the number of non-observable functional modules; (ii) estimate the
+degree of membership of proteins to modules; and (iii) estimate typical
+interaction patterns among the functional modules themselves. Our model
+describes large amount of (relational) data using a relatively small set of
+parameters that we can reliably estimate with an efficient inference algorithm.
+We apply our methodology to data on protein-to-protein interactions in
+saccharomyces cerevisiae to reveal proteins' diverse functional roles. The case
+study provides the basis for an overview of which scientific questions can be
+addressed using our methods, and for a discussion of technical issues.
+  This work is a study of the inter-relationship between parameters that
+principally affect metal up-take in the plant. The relationships between the
+concentration of metal in the growth medium, Cs, the concentration of metal
+absorbed by the plant, Cp, and the total biomass achieved, M, all of which are
+factors relevant to the efficiency of phytoremediation of the plant, have been
+investigated via the macro-physiological response of Brassica juncea seedlings
+to Ni(II) stress. The factorial growth experiments treated the Ni(II)
+concentration in the agar gel and the diurnal light quanta (DLQ) as
+independently variable parameters. Observations included the evidence of light
+enhancement of Ni toxicity at the root as well as at the whole plant level, the
+shoot mass index as a possible indicator of shoot metal sequestration in B.
+juncea, the logarithmic variation of Cp with Cs and the power-law dependence of
+M on Cp. The sum total of these observations indicate that for the metal
+accumulator B. juncea with regard to its capacity to accumulate Ni, the overall
+metabolic nature of the plant is important; neither rapid biomass increase nor
+a high metal concentration capability favor the removal of high metal mass from
+the medium, but rather the plant with the moderate photosynthetically driven
+biomass growth and moderate metal concentrations demonstrated the ability to
+remove the maximum mass of metal from the medium. The implications of these
+observations in the context of the perceived need in phytoremediation
+engineering to maximize Cp and M simultaneously in the same plant, are
+discussed.
+  We consider an asexual population evolving on rugged fitness landscapes which
+are defined on the multi-dimensional genotypic space and have many local
+optima. We track the most populated genotype as it changes when the population
+jumps from a fitness peak to a better one during the process of adaptation.
+This is done using the dynamics of the shell model which is a simplified
+version of the quasispecies model for infinite populations and standard
+Wright-Fisher dynamics for large finite populations. We show that the
+population fraction of a genotype obtained within the quasispecies model and
+the shell model match for fit genotypes and at short times, but the dynamics of
+the two models are identical for questions related to the most populated
+genotype. We calculate exactly several properties of the jumps in infinite
+populations some of which were obtained numerically in previous works. We also
+present our preliminary simulation results for finite populations. In
+particular, we measure the jump distribution in time and find that it decays as
+$t^{-2}$ as in the quasispecies problem.
+  A dynamical system model for tumor -- immune system interaction together with
+a method to mimic radiation therapy are proposed. A large population of virtual
+patients is simulated following an ideal radiation treatment. A characteristic
+parameter, the Immune System -- Tumor Efficiency Rate (ISTER), is introduced.
+ISTER dependence of treatment success and other features is studied.
+Statistical results allow us to give a patient classification scheme.
+Radiotherapy treatment biological effective dose (BED) is thus optimized based
+on the patient physical condition, following the ALARA (As Low As Reasonably
+Achievable) criterion.
+  We present a model for diffusion in a molecularly crowded environment. The
+model consists of random barriers in percolation network. Random walks in the
+presence of slowly moving barriers show normal diffusion for long times, but
+anomalous diffusion at intermediate times. The effective exponents for square
+distance versus time usually are below one at these intermediate times, but can
+be also larger than one for high barrier concentrations. Thus we observe sub-
+as well as super-diffusion in a crowded environment.
+  We study the problem of the emergence of cooperation in the spatial
+Prisoner's Dilemma. The pioneering work by Nowak and May showed that large
+initial populations of cooperators can survive and sustain cooperation in a
+square lattice with imitate-the-best evolutionary dynamics. We revisit this
+problem in a cost-benefit formulation suitable for a number of biological
+applications. We show that if a fixed-amount reward is established for
+cooperators to share, a single cooperator can invade a population of defectors
+and form structures that are resilient to re-invasion even if the reward
+mechanism is turned off. We discuss analytically the case of the invasion by a
+single cooperator and present agent-based simulations for small initial
+fractions of cooperators. Large cooperation levels, in the sustainability
+range, are found. In the conclusions we discuss possible applications of this
+model as well as its connections with other mechanisms proposed to promote the
+emergence of cooperation.
+  We discuss various models of ion transport through cell membrane channels.
+Recent experimental data shows that sizes of ion channels are compared to those
+of ions and that only few ions may be simultaneously in any single channel.
+Theoretical description of ion transport in such channels should therefore take
+into account interactions between ions and between ions and channel proteins.
+This is not satisfied by macroscopic continuum models based on
+Poisson-Nernst-Planck equations. More realistic descriptions of ion transport
+are offered by microscopic Brownian and molecular dynamics. One should also
+take into account a dynamical character of the channel structure. This is not
+yet addressed in the literature
+  In this paper we present a novel framework for sequence to shape maps. These
+combinatorial maps realize exponentially many shapes, and have preimages which
+contain extended connected subgraphs of diameter n (neutral networks). We prove
+that all basic properties of RNA folding maps also hold for combinatorial maps.
+Our construction is as follows: suppose we are given a graph $H$ over the $\{1
+>...,n\}$ and an alphabet of nucleotides together with a symmetric relation
+$\mathcal{R}$, implied by base pairing rules. Then the shape of a sequence of
+length n is the maximal H subgraph in which all pairs of nucleotides incident
+to H-edges satisfy $\mathcal{R}$. Our main result is to prove the existence of
+at least $\sqrt{2}^{n-1}$ shapes with extended neutral networks, i.e. shapes
+that have a preimage with diameter $n$ and a connected component of size at
+least $(\frac{1+\sqrt{5}}{2})^n+(\frac{1-\sqrt{5}}{2})^n$. Furthermore, we show
+that there exists a certain subset of shapes which carries a natural graph
+structure. In this graph any two shapes are connected by a path of shapes with
+respective neutral networks of distance one. We finally discuss our results and
+provide a comparison with RNA folding maps.
+  We introduce a topology-based nonlinear network model of protein dynamics
+with the aim of investigating the interplay of spatial disorder and
+nonlinearity. We show that spontaneous localization of energy occurs
+generically and is a site-dependent process. Localized modes of nonlinear
+origin form spontaneously in the stiffest parts of the structure and display
+site-dependent activation energies. Our results provide a straightforward way
+for understanding the recently discovered link between protein local stiffness
+and enzymatic activity. They strongly suggest that nonlinear phenomena may play
+an important role in enzyme function, allowing for energy storage during the
+catalytic process.
+  We have investigated the migration behaviors of uranium (U) and thorium (Th)
+in Earth and other terrestrial planets. Theoretical models of U and Th
+migration have been proposed. These models suggest that the unique features of
+Earth are closely connected with its unique U and Th migration models and
+distribution patterns. In the Earth, U and Th can combine with oxidative
+volatile components and water, migrate up to the asthenosphere position to form
+an enrichment zone (EZ) of U and Th first, and then migrate up further to the
+crusts through magmatism and metamorphism. We emphasize that the formation of
+an EZ of U, Th and other heat-producing elements is a prerequisite for the
+formation of a plate tectonic system. The heat-producing elements, currently
+mainly U and Th, in the EZ are also the energy sources that drive the formation
+and evolution of the crust of Earth and create special granitic continental
+crusts. In other terrestrial planets, including Mercury, Venus, and Mars, an EZ
+can not be formed because of a lack of oxidative volatile components and water.
+For this reason, a plate tectonic system can not been developed in these
+planets. We also emphasize the influence of U and Th in EZ on the development
+and evolution of life on Earth. We propose that since the Earth and planets
+were born in a united solar system, there should be some common mechanisms to
+create the similarities and differences between them. We have tried to develop
+an integrated view to explain some problems in the tectonics of Earth and
+evolution, bio-evolution, and planetary dynamics through U and Th geochemistry.
+We believe that a comprehensive exploration on energy sources and their
+evolution is a good way to build bridges between different disciplines of
+science in order to better understand the Earth and planets.
+  We incorporate hydrodynamic interactions in a structure-based model of
+ubiquitin and demonstrate that the hydrodynamic coupling may reduce the peak
+force when stretching the protein at constant speed, especially at larger
+speeds. Hydrodynamic interactions are also shown to facilitate unfolding at
+constant force and inhibit stretching by fluid flows.
+  It is basic question in biology and other fields to identify the char-
+acteristic properties that on one hand are shared by structures from a
+particular realm, like gene regulation, protein-protein interaction or neu- ral
+networks or foodwebs, and that on the other hand distinguish them from other
+structures. We introduce and apply a general method, based on the spectrum of
+the normalized graph Laplacian, that yields repre- sentations, the spectral
+plots, that allow us to find and visualize such properties systematically. We
+present such visualizations for a wide range of biological networks and compare
+them with those for networks derived from theoretical schemes. The differences
+that we find are quite striking and suggest that the search for universal
+properties of biological networks should be complemented by an understanding of
+more specific features of biological organization principles at different
+scales.
+  Anhedonia is one of the key symptoms of depression in humans. Consumption of
+1% sucrose solution supplemented with 0.2% vanillin was studied in two
+experimental contexts in male mice living under chronic social stress induced
+by daily experience of defeats in agonistic interactions and leading to
+development of depression. In the first experiment, vanillin sucrose solution
+was made available as an option of water during 10 days to mice living in group
+home cages. Then the mice were subjected to social defeat stress and during
+stress exposure they were provided with both vanillin sucrose solution and
+water using a free two bottles choice paradigm. In the other experiment,
+vanillin sucrose solution were first offered to mice after 8 days of exposure
+to social defeat stress. Males familiar with vanillin sucrose solution showed
+vanillin sucrose preference while experiencing defeat stress: consumption of
+vanillin sucrose solution was about 70% of total liquid consumption. However,
+the consumption of vanillin sucrose solution per gram of body weight in mice
+imposed to social stress during 20 days was significantly lower than in control
+males. In the second experiment, males after 8 days of social defeat stress
+were found to consume significantly less vanillin sucrose solution as compared
+with control males. On average during two weeks of measurements, vanillin
+sucrose solution intake was less than 20% of total liquid consumption in males
+with symptoms of depression and anxiety. Consumption per gram of body weight
+also appeared to be significantly lower than in control group. Influence of the
+experimental context on the development of anhedonia, which was measured by the
+reduction in sucrose solution intake by chronically stressed male mice, has
+been discussed.
+  Cortical neurons are subject to sustained and irregular synaptic activity
+which causes important fluctuations of the membrane potential (Vm). We review
+here different methods to characterize this activity and its impact on spike
+generation. The simplified, fluctuating point-conductance model of synaptic
+activity provides the starting point of a variety of methods for the analysis
+of intracellular Vm recordings. In this model, the synaptic excitatory and
+inhibitory conductances are described by Gaussian-distributed stochastic
+variables, or colored conductance noise. The matching of experimentally
+recorded Vm distributions to an invertible theoretical expression derived from
+the model allows the extraction of parameters characterizing the synaptic
+conductance distributions. This analysis can be complemented by the matching of
+experimental Vm power spectral densities (PSDs) to a theoretical template, even
+though the unexpected scaling properties of experimental PSDs limit the
+precision of this latter approach. Building on this stochastic characterization
+of synaptic activity, we also propose methods to qualitatively and
+quantitatively evaluate spike-triggered averages of synaptic time-courses
+preceding spikes. This analysis points to an essential role for synaptic
+conductance variance in determining spike times. The presented methods are
+evaluated using controlled conductance injection in cortical neurons in vitro
+with the dynamic-clamp technique. We review their applications to the analysis
+of in vivo intracellular recordings in cat association cortex, which suggest a
+predominant role for inhibition in determining both sub- and supra-threshold
+dynamics of cortical neurons embedded in active networks.
