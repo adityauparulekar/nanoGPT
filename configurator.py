@@ -32,6 +32,7 @@ for arg in sys.argv[1:]:
         key, val = arg.split('=')
         key = key[2:]
         if key in globals():
+            print(val)
             try:
                 # attempt to eval it it (e.g. if bool, number, or etc)
                 attempt = literal_eval(val)
@@ -39,6 +40,7 @@ for arg in sys.argv[1:]:
                 # if that goes wrong, just use the string
                 attempt = val
             # ensure the types match ok
+            print(attempt, type(attempt))
             assert type(attempt) == type(globals()[key])
             # cross fingers
             print(f"Overriding: {key} = {attempt}")

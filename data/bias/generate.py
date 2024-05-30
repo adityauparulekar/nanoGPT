@@ -1,7 +1,7 @@
 import numpy as np
 import argparse
 
- 
+biases = [0.25, 0.5, 0.75]
 parser = argparse.ArgumentParser(description="Just an example",
                                  formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 parser.add_argument("-n", "--num_lines", default=100)
@@ -13,13 +13,13 @@ config = vars(args)
 num_lines = int(config['num_lines'])
 line_len = int(config['line_len'])
 
-biases = [0.25, 0.5, 0.75]
-encs = ['a', 'b', 'c']
+bias_enc = {0.25:'a', 0.5:'b', 0.75:'c'}
 f = open('bias_output.txt', 'w')
+f.write("\n")
 for _ in range(num_lines):
-    bias_i = np.random.choice([0, 1, 2])
+    bias_i = np.random.choice([i for i in range(len(biases))])
     bias = biases[bias_i]
-    enc = encs[bias_i]
+    enc = bias_enc[bias]
     l = []
     for _ in range(line_len):
         if np.random.rand() < bias:
@@ -27,6 +27,7 @@ for _ in range(num_lines):
         else:
             l.append('1')
     s = f'{enc}:' + ''.join(l) + '\n'
+    # s = ''.join(l) + '.\n'
     f.write(s)
 f.close()
 

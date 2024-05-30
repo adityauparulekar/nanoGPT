@@ -1,0 +1,358 @@
+250, 1000, 0.0: num invalid: 1, 
+	 percent of 01-samples: 0.0, 
+	 average distance 01: -1, 
+	 average distance 23: 45.986
+500, 1000, 0.0: num invalid: 1, 
+	 percent of 01-samples: 0.0, 
+	 average distance 01: -1, 
+	 average distance 23: 12.496
+750, 1000, 0.0: num invalid: 1, 
+	 percent of 01-samples: 0.0, 
+	 average distance 01: -1, 
+	 average distance 23: 3.826
+1000, 1000, 0.0: num invalid: 1, 
+	 percent of 01-samples: 0.0, 
+	 average distance 01: -1, 
+	 average distance 23: 2.124
+1250, 1000, 0.0: num invalid: 1, 
+	 percent of 01-samples: 0.0, 
+	 average distance 01: -1, 
+	 average distance 23: 1.842
+1500, 1000, 0.0: num invalid: 1, 
+	 percent of 01-samples: 0.0, 
+	 average distance 01: -1, 
+	 average distance 23: 1.822
+1750, 1000, 0.0: num invalid: 1, 
+	 percent of 01-samples: 0.0, 
+	 average distance 01: -1, 
+	 average distance 23: 1.87
+2000, 1000, 0.0: num invalid: 1, 
+	 percent of 01-samples: 0.0, 
+	 average distance 01: -1, 
+	 average distance 23: 1.902
+250, 1000, 0.1: num invalid: 500, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 77.0, 
+	 average distance 23: -1
+500, 1000, 0.1: num invalid: 472, 
+	 percent of 01-samples: 0.0, 
+	 average distance 01: -1, 
+	 average distance 23: 7.862068965517241
+750, 1000, 0.1: num invalid: 276, 
+	 percent of 01-samples: 0.0, 
+	 average distance 01: -1, 
+	 average distance 23: 3.453333333333333
+1000, 1000, 0.1: num invalid: 160, 
+	 percent of 01-samples: 0.02346041055718475, 
+	 average distance 01: 32.375, 
+	 average distance 23: 2.2612612612612613
+1250, 1000, 0.1: num invalid: 80, 
+	 percent of 01-samples: 0.035629453681710214, 
+	 average distance 01: 31.866666666666667, 
+	 average distance 23: 1.9556650246305418
+1500, 1000, 0.1: num invalid: 58, 
+	 percent of 01-samples: 0.03160270880361174, 
+	 average distance 01: 31.142857142857142, 
+	 average distance 23: 1.965034965034965
+1750, 1000, 0.1: num invalid: 63, 
+	 percent of 01-samples: 0.0365296803652968, 
+	 average distance 01: 32.0625, 
+	 average distance 23: 1.9431279620853081
+2000, 1000, 0.1: num invalid: 68, 
+	 percent of 01-samples: 0.04849884526558892, 
+	 average distance 01: 32.23809523809524, 
+	 average distance 23: 1.9635922330097086
+500, 1000, 0.2: num invalid: 481, 
+	 percent of 01-samples: 0.0, 
+	 average distance 01: -1, 
+	 average distance 23: 7.5
+750, 1000, 0.2: num invalid: 327, 
+	 percent of 01-samples: 0.028735632183908046, 
+	 average distance 01: 32.4, 
+	 average distance 23: 3.2544378698224854
+1000, 1000, 0.2: num invalid: 172, 
+	 percent of 01-samples: 0.05167173252279635, 
+	 average distance 01: 32.35294117647059, 
+	 average distance 23: 2.144230769230769
+1250, 1000, 0.2: num invalid: 135, 
+	 percent of 01-samples: 0.06830601092896176, 
+	 average distance 01: 32.52, 
+	 average distance 23: 1.8944281524926687
+1500, 1000, 0.2: num invalid: 100, 
+	 percent of 01-samples: 0.08977556109725686, 
+	 average distance 01: 31.944444444444443, 
+	 average distance 23: 1.83013698630137
+1750, 1000, 0.2: num invalid: 97, 
+	 percent of 01-samples: 0.08415841584158416, 
+	 average distance 01: 31.823529411764707, 
+	 average distance 23: 1.7783783783783784
+2000, 1000, 0.2: num invalid: 93, 
+	 percent of 01-samples: 0.09313725490196079, 
+	 average distance 01: 31.63157894736842, 
+	 average distance 23: 1.7837837837837838
+500, 1000, 0.3: num invalid: 488, 
+	 percent of 01-samples: 0.23076923076923078, 
+	 average distance 01: 31.666666666666668, 
+	 average distance 23: 9.1
+750, 1000, 0.3: num invalid: 383, 
+	 percent of 01-samples: 0.1864406779661017, 
+	 average distance 01: 31.954545454545453, 
+	 average distance 23: 3.2291666666666665
+1000, 1000, 0.3: num invalid: 225, 
+	 percent of 01-samples: 0.19927536231884058, 
+	 average distance 01: 32.18181818181818, 
+	 average distance 23: 2.0
+1250, 1000, 0.3: num invalid: 157, 
+	 percent of 01-samples: 0.20930232558139536, 
+	 average distance 01: 32.013888888888886, 
+	 average distance 23: 1.775735294117647
+1500, 1000, 0.3: num invalid: 134, 
+	 percent of 01-samples: 0.17438692098092642, 
+	 average distance 01: 31.578125, 
+	 average distance 23: 1.7128712871287128
+1750, 1000, 0.3: num invalid: 141, 
+	 percent of 01-samples: 0.18055555555555555, 
+	 average distance 01: 31.723076923076924, 
+	 average distance 23: 1.6305084745762712
+2000, 1000, 0.3: num invalid: 158, 
+	 percent of 01-samples: 0.3673469387755102, 
+	 average distance 01: 31.825396825396826, 
+	 average distance 23: 1.6267281105990783
+500, 1000, 0.4: num invalid: 493, 
+	 percent of 01-samples: 0.75, 
+	 average distance 01: 31.333333333333332, 
+	 average distance 23: 14.0
+750, 1000, 0.4: num invalid: 384, 
+	 percent of 01-samples: 0.2564102564102564, 
+	 average distance 01: 31.633333333333333, 
+	 average distance 23: 3.4597701149425286
+1000, 1000, 0.4: num invalid: 260, 
+	 percent of 01-samples: 0.24481327800829875, 
+	 average distance 01: 32.30508474576271, 
+	 average distance 23: 1.89010989010989
+1250, 1000, 0.4: num invalid: 187, 
+	 percent of 01-samples: 0.24522292993630573, 
+	 average distance 01: 31.98701298701299, 
+	 average distance 23: 1.5949367088607596
+1500, 1000, 0.4: num invalid: 181, 
+	 percent of 01-samples: 0.28125, 
+	 average distance 01: 32.0, 
+	 average distance 23: 1.491304347826087
+1750, 1000, 0.4: num invalid: 166, 
+	 percent of 01-samples: 0.31044776119402984, 
+	 average distance 01: 31.817307692307693, 
+	 average distance 23: 1.4805194805194806
+2000, 1000, 0.4: num invalid: 167, 
+	 percent of 01-samples: 0.3413173652694611, 
+	 average distance 01: 31.75438596491228, 
+	 average distance 23: 1.3772727272727272
+500, 1000, 0.5: num invalid: 483, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 32.05555555555556, 
+	 average distance 23: -1
+750, 1000, 0.5: num invalid: 387, 
+	 percent of 01-samples: 0.45614035087719296, 
+	 average distance 01: 32.28846153846154, 
+	 average distance 23: 3.3870967741935485
+1000, 1000, 0.5: num invalid: 265, 
+	 percent of 01-samples: 0.3474576271186441, 
+	 average distance 01: 32.19512195121951, 
+	 average distance 23: 1.7987012987012987
+1250, 1000, 0.5: num invalid: 197, 
+	 percent of 01-samples: 0.3848684210526316, 
+	 average distance 01: 32.205128205128204, 
+	 average distance 23: 1.4973262032085561
+1500, 1000, 0.5: num invalid: 185, 
+	 percent of 01-samples: 0.3860759493670886, 
+	 average distance 01: 31.852459016393443, 
+	 average distance 23: 1.3350515463917525
+1750, 1000, 0.5: num invalid: 161, 
+	 percent of 01-samples: 0.4470588235294118, 
+	 average distance 01: 31.86842105263158, 
+	 average distance 23: 1.351063829787234
+2000, 1000, 0.5: num invalid: 181, 
+	 percent of 01-samples: 0.59375, 
+	 average distance 01: 31.889473684210525, 
+	 average distance 23: 1.3153846153846154
+500, 1000, 0.6: num invalid: 486, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 32.4, 
+	 average distance 23: -1
+750, 1000, 0.6: num invalid: 366, 
+	 percent of 01-samples: 0.8666666666666667, 
+	 average distance 01: 32.93162393162393, 
+	 average distance 23: 2.7222222222222223
+1000, 1000, 0.6: num invalid: 262, 
+	 percent of 01-samples: 0.6317991631799164, 
+	 average distance 01: 32.62251655629139, 
+	 average distance 23: 1.7613636363636365
+1250, 1000, 0.6: num invalid: 206, 
+	 percent of 01-samples: 0.5084745762711864, 
+	 average distance 01: 32.18, 
+	 average distance 23: 1.206896551724138
+1500, 1000, 0.6: num invalid: 177, 
+	 percent of 01-samples: 0.6759259259259259, 
+	 average distance 01: 32.205479452054796, 
+	 average distance 23: 1.3523809523809525
+1750, 1000, 0.6: num invalid: 182, 
+	 percent of 01-samples: 0.6802507836990596, 
+	 average distance 01: 31.953917050691246, 
+	 average distance 23: 1.1666666666666667
+2000, 1000, 0.6: num invalid: 156, 
+	 percent of 01-samples: 0.9072463768115943, 
+	 average distance 01: 30.575079872204473, 
+	 average distance 23: 0.6875
+500, 1000, 0.7: num invalid: 447, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 33.092592592592595, 
+	 average distance 23: -1
+750, 1000, 0.7: num invalid: 348, 
+	 percent of 01-samples: 0.9281045751633987, 
+	 average distance 01: 32.90845070422535, 
+	 average distance 23: 3.909090909090909
+1000, 1000, 0.7: num invalid: 237, 
+	 percent of 01-samples: 0.8106060606060606, 
+	 average distance 01: 32.8411214953271, 
+	 average distance 23: 1.54
+1250, 1000, 0.7: num invalid: 201, 
+	 percent of 01-samples: 0.7133333333333334, 
+	 average distance 01: 32.41121495327103, 
+	 average distance 23: 1.0116279069767442
+1500, 1000, 0.7: num invalid: 132, 
+	 percent of 01-samples: 0.8238482384823849, 
+	 average distance 01: 32.22697368421053, 
+	 average distance 23: 0.8153846153846154
+1750, 1000, 0.7: num invalid: 140, 
+	 percent of 01-samples: 0.8614958448753463, 
+	 average distance 01: 31.990353697749196, 
+	 average distance 23: 0.6
+2000, 1000, 0.7: num invalid: 131, 
+	 percent of 01-samples: 0.8972972972972973, 
+	 average distance 01: 30.325301204819276, 
+	 average distance 23: 0.5
+500, 1000, 0.8: num invalid: 430, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 33.83098591549296, 
+	 average distance 23: -1
+750, 1000, 0.8: num invalid: 310, 
+	 percent of 01-samples: 0.9842931937172775, 
+	 average distance 01: 33.1063829787234, 
+	 average distance 23: 2.3333333333333335
+1000, 1000, 0.8: num invalid: 208, 
+	 percent of 01-samples: 0.9829351535836177, 
+	 average distance 01: 33.02430555555556, 
+	 average distance 23: 3.4
+1250, 1000, 0.8: num invalid: 136, 
+	 percent of 01-samples: 0.8301369863013699, 
+	 average distance 01: 32.636963696369634, 
+	 average distance 23: 0.9354838709677419
+1500, 1000, 0.8: num invalid: 128, 
+	 percent of 01-samples: 0.8954423592493298, 
+	 average distance 01: 32.122754491017965, 
+	 average distance 23: 0.5128205128205128
+1750, 1000, 0.8: num invalid: 114, 
+	 percent of 01-samples: 0.9431524547803618, 
+	 average distance 01: 31.47945205479452, 
+	 average distance 23: 0.22727272727272727
+2000, 1000, 0.8: num invalid: 110, 
+	 percent of 01-samples: 0.9104859335038363, 
+	 average distance 01: 30.129213483146067, 
+	 average distance 23: 0.45714285714285713
+250, 1000, 0.9: num invalid: 500, 
+	 percent of 01-samples: 0.0, 
+	 average distance 01: -1, 
+	 average distance 23: 67.0
+500, 1000, 0.9: num invalid: 408, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 33.75268817204301, 
+	 average distance 23: -1
+750, 1000, 0.9: num invalid: 226, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 33.17090909090909, 
+	 average distance 23: -1
+1000, 1000, 0.9: num invalid: 120, 
+	 percent of 01-samples: 0.9973753280839895, 
+	 average distance 01: 32.84473684210526, 
+	 average distance 23: 6.0
+1250, 1000, 0.9: num invalid: 100, 
+	 percent of 01-samples: 0.9950124688279302, 
+	 average distance 01: 32.854636591478695, 
+	 average distance 23: 2.0
+1500, 1000, 0.9: num invalid: 59, 
+	 percent of 01-samples: 0.9796380090497737, 
+	 average distance 01: 32.47113163972286, 
+	 average distance 23: 0.4444444444444444
+1750, 1000, 0.9: num invalid: 49, 
+	 percent of 01-samples: 0.995575221238938, 
+	 average distance 01: 32.15777777777778, 
+	 average distance 23: 0.0
+2000, 1000, 0.9: num invalid: 44, 
+	 percent of 01-samples: 0.9890590809628009, 
+	 average distance 01: 32.0, 
+	 average distance 23: 0.0
+250, 1000, 1.0: num invalid: 1, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 119.16, 
+	 average distance 23: -1
+500, 1000, 1.0: num invalid: 2, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 116.77354709418837, 
+	 average distance 23: -1
+750, 1000, 1.0: num invalid: 1, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 48.314, 
+	 average distance 23: -1
+1000, 1000, 1.0: num invalid: 1, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 32.408, 
+	 average distance 23: -1
+1250, 1000, 1.0: num invalid: 1, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 32.266, 
+	 average distance 23: -1
+1500, 1000, 1.0: num invalid: 1, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 31.946, 
+	 average distance 23: -1
+1750, 1000, 1.0: num invalid: 1, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 29.968, 
+	 average distance 23: -1
+2000, 1000, 1.0: num invalid: 1, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 28.48, 
+	 average distance 23: -1
+
+ONLY 01:
+250, 1000, 1.0: num invalid: 1, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 91.5, 
+	 average distance 23: -1
+500, 1000, 1.0: num invalid: 1, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 32.568, 
+	 average distance 23: -1
+750, 1000, 1.0: num invalid: 1, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 28.916, 
+	 average distance 23: -1
+1000, 1000, 1.0: num invalid: 1, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 28.086, 
+	 average distance 23: -1
+1250, 1000, 1.0: num invalid: 1, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 27.318, 
+	 average distance 23: -1
+1500, 1000, 1.0: num invalid: 1, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 26.704, 
+	 average distance 23: -1
+1750, 1000, 1.0: num invalid: 1, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 26.732, 
+	 average distance 23: -1
+2000, 1000, 1.0: num invalid: 1, 
+	 percent of 01-samples: 1.0, 
+	 average distance 01: 26.574, 
+	 average distance 23: -1
